@@ -5,6 +5,7 @@
 - Jedes Rezept nennt seine Menge (Portionen / Reicht für / Ergibt).
 - Jedes Rezept steht in der README-Übersicht.
 - "Verwendet in:" stimmt in beide Richtungen.
+- Keine Gedankenstriche, nur einfacher Bindestrich.
 
 Nur Standardbibliothek: python3 check.py
 """
@@ -46,6 +47,12 @@ for p in sorted(RZ.glob("*.md")):
     check_links(p, files[p.name])
 for p in (ROOT / "README.md", ROOT / "substitution.md"):
     check_links(p, p.read_text(encoding="utf-8"))
+
+DASHES = ("\u2014", "\u2013")
+for p in sorted(RZ.glob("*.md")) + [ROOT / "README.md", ROOT / "substitution.md"]:
+    for ln, line in enumerate(p.read_text(encoding="utf-8").splitlines(), 1):
+        if any(d in line for d in DASHES):
+            errors.append(f"{p.relative_to(ROOT)}:{ln}: Gedankenstrich, bitte einfacher Bindestrich")
 
 for name, txt in files.items():
     if name == TEMPLATE:

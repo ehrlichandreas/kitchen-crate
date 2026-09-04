@@ -50,7 +50,7 @@ Regeln:
 - Teile, die von anderen Rezepten genutzt werden, führen unten "Verwendet in:".
 - Ungetestete Ideen werden als solche markiert, nicht als Fakt.
 - Neues Rezept = Eintrag in der Übersicht oben, sonst findet es niemand.
-- `python3 check.py` prüft das alles mechanisch (Links, Mengen, Übersicht, Rückverweise).
+- `python3 check.py` prüft das alles mechanisch (Links, Mengen, Übersicht, Rückverweise, keine Gedankenstriche).
 
 ## Wachstumspfad (nicht jetzt bauen, nur damit klar ist wohin)
 
