@@ -61,3 +61,10 @@ Regeln:
 
 - Bilder: `rezepte/bilder/<rezept-name>/` sobald das erste Rezept eins braucht
 - Web/App: liest später einfach die Markdown-Dateien hier, kein Datenmodell-Wechsel nötig
+
+## Lizenz
+
+CC0 1.0 (siehe `LICENSE`, gilt auch für `check.py`): mach damit, was du
+willst, ohne Nennung. Ohne Gewähr - die Rezepte sind privat entwickelt,
+Mengen und Zeiten hängen von Ofen, Zutaten und Küche ab. Allergene stehen in
+der Übersicht, was auf der Packung steht, prüft jeder selbst.
