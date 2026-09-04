@@ -4,7 +4,7 @@ Kalt/lauwarm, reist gut - eigener Behälter zum Transport.
 
 ## Zutaten
 
-- 150 g Frischkäse (kalt)
+- 150 g Frischkäse, Doppelrahmstufe (kalt; leichter Frischkäse wird flüssig)
 - 60 g weiche Butter
 - 150 g Puderzucker
 - 1 Päckchen Vanillezucker (günstiger als Vanilleextrakt)

@@ -13,7 +13,7 @@ Warm serviert, eigener Behälter zum Transport.
 ## Zubereitung
 
 Stärke mit etwas kalter Milch + Eigelb verrühren. Restliche Milch mit Zucker
-und Vanillezucker aufkochen. Stärkemischung einrühren, kurz andicken lassen.
+und Vanillezucker aufkochen. Stärkemischung einrühren, unter Rühren kurz aufkochen, bis sie leicht andickt.
 Abkühlen lassen, in eigenen Behälter füllen, vor dem Servieren aufwärmen.
 
 ## Reicht für

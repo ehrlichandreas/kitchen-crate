@@ -22,7 +22,7 @@ bildet sich Haut).
 
 ## Reicht für
 
-ca. 12 Schnecken (1× Hefeteig-Grundrezept) bei mittlerer Menge - für mehr
-mit demselben Faktor wie beim Teig multiplizieren.
+1 Tortenfüllung (26 cm) oder ca. 4 Dessertportionen. Für die Frosting-Kombi
+reicht die halbe Menge.
 
 Verwendet in: [`zimtschnecken-mit-puddingcreme-frischkaese-frosting.md`](zimtschnecken-mit-puddingcreme-frischkaese-frosting.md) (ungetestet)

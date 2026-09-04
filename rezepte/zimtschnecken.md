@@ -22,6 +22,8 @@ Faktor-Tabellen stehen in [`hefeteig-grundrezept.md`](hefeteig-grundrezept.md) u
 - Normal: 22-27 Schnecken nötig → **Faktor 2** (24 Stück) für die untere
   Spanne, **Faktor 2,25** (27 Stück) für die obere.
 - Laktosefrei (3 Personen): siehe [`zimtschnecken-laktosefrei.md`](zimtschnecken-laktosefrei.md).
+- Saucen: bei drei Saucen zur Auswahl reicht je 1× (3 × ca. 12 Portionen für
+  24-27 Schnecken). Wer sicher gehen will, macht das Frosting 1,5×.
 
 ## Transport / Arbeit
 

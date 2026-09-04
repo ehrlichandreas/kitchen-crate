@@ -11,6 +11,8 @@
 - Sauce: keine - für wenige Betroffene lohnt sich keine dritte
   Sauce-Parallelproduktion. Optional: Puderzucker + etwas Wasser als
   einfache Glasur, von Natur aus laktosefrei.
+  Falls doch Sauce: alle drei gehen 1:1 mit laktosefreier Milch/Sahne/Frischkäse,
+  siehe [`../substitution.md`](../substitution.md).
 
 Zubereitung: [`hefeteig-grundrezept.md`](hefeteig-grundrezept.md) Schritt 1-6, Füllung wird in Schritt 3 aufgetragen.
 

@@ -1,8 +1,9 @@
 # Chocolate-Chip-Macadamia-Cookies
 
-**Portionen:** ca. 50 Cookies à 66g
-**Zeit:** 2-12h Teigruhe + 30min aktiv + Backen
+**Portionen:** ca. 50 Cookies à 63-64 g
+**Zeit:** 30 min aktiv + 2-12 h Teigruhe + ca. 1,5-2 h Backen (7-8 Bleche, am besten zwei im Wechsel)
 **Kategorie:** Backen
+**Enthält Nüsse (Macadamia).**
 
 Angepasst gegenüber der ursprünglichen Version: weniger Zucker (war zu viel,
 löste sich beim Backen nicht komplett auf, man merkte ihn beim Kauen).
@@ -31,11 +32,11 @@ löste sich beim Backen nicht komplett auf, man merkte ihn beim Kauen).
 5. **Mehl einarbeiten:** Küchenmaschine auf niedrigste Stufe, trockene Mischung in 3 Portionen zugeben, nach jeder Portion nur kurz rühren. Sobald kein trockenes Mehl mehr sichtbar ist, stoppen (nicht überkneten, sonst zu viel Gluten).
 6. **Schokolade und Macadamias unterheben:** Auf niedrigster Stufe 10-20 Sek einarbeiten, Rest von Hand mit Teigschaber fertig unterheben.
 7. **Teig kühlen:** Abgedeckt mindestens 2 Stunden, besser 4-12 Stunden (über Nacht ist gut) in den Kühlschrank.
-8. **Portionieren:** Gesamtteig wiegen und durch 50 teilen (ca. 66g/Stück). Locker zu hohen Kugeln formen, nicht platt drücken.
+8. **Portionieren:** Gesamtteig wiegen (ca. 3,2 kg) und durch 50 teilen (ca. 63-64 g/Stück). Locker zu hohen Kugeln formen, nicht platt drücken.
 9. **Testbacken:** Ofen auf 180°C Ober-/Unterhitze vorheizen. 2 Cookies mit viel Abstand 11 Minuten backen. Danach 10 Minuten auf dem heißen Blech nachruhen lassen, dann probieren: zu roh → 12 Min, perfekt → 11 Min, zu trocken → 10 Min.
 10. **Restliche Cookies backen:** 6-8 Stück pro Blech mit gefundener Backzeit, danach jeweils 10 Minuten auf dem Blech ruhen lassen, dann auf ein Kuchengitter.
 
 ## Notizen
 
 - Fehlt eine Zutat? Siehe [`../substitution.md`](../substitution.md)
-- Ursprüngliche Quelle: privates ChatGPT-Gespräch zu Lidl-Zutaten, iterativ entwickelt
+- Ausgangspunkt: Rezept mit Lidl-Zutaten, über mehrere Backdurchgänge angepasst

@@ -9,7 +9,7 @@ Rezeptsammlung in reinem Markdown, zum Nachbacken und Weitergeben.
 - [Zimtschnecken](rezepte/zimtschnecken.md) - Teig + Füllung + alle drei Saucen, skalierbar auf beliebige Stückzahl
 - [Zimtschnecken laktosefrei](rezepte/zimtschnecken-laktosefrei.md) - laktosefreier Teig, ohne Sauce
 - [Zimtschnecken mit Puddingcreme-Frischkäse-Frosting](rezepte/zimtschnecken-mit-puddingcreme-frischkaese-frosting.md) - ungetestet
-- [Chocolate-Chip-Macadamia-Cookies](rezepte/chocolate-chip-macadamia-cookies.md) - ca. 50 Stück
+- [Chocolate-Chip-Macadamia-Cookies](rezepte/chocolate-chip-macadamia-cookies.md) - ca. 50 Stück, **enthält Nüsse**
 
 **Teile** (von den Kombis referenziert, funktionieren aber auch für sich)
 
@@ -50,6 +50,7 @@ Regeln:
 - Teile, die von anderen Rezepten genutzt werden, führen unten "Verwendet in:".
 - Ungetestete Ideen werden als solche markiert, nicht als Fakt.
 - Neues Rezept = Eintrag in der Übersicht oben, sonst findet es niemand.
+- `python3 check.py` prüft das alles mechanisch (Links, Mengen, Übersicht, Rückverweise).
 
 ## Wachstumspfad (nicht jetzt bauen, nur damit klar ist wohin)
 

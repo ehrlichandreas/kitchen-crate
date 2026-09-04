@@ -13,7 +13,7 @@ Basis für gerollte Hefegebäcke (z.B. Zimtschnecken). Ergibt **12 Stück**.
 - 250 ml lauwarme Milch (Variante)
 - 70 g Zucker
 - 80 g weiche Butter (Variante)
-- 1 Prise Salz
+- 1/2 TL Salz (ca. 3 g)
 - 1 Ei (≈ 55 g)
 
 ## Zubereitung
@@ -22,7 +22,7 @@ Basis für gerollte Hefegebäcke (z.B. Zimtschnecken). Ergibt **12 Stück**.
 2. Abgedeckt 45-60 min gehen lassen, bis Volumen sich verdoppelt.
 3. Rechteckig ausrollen (ca. 40x50 cm), mit der vorbereiteten Füllung bestreichen (siehe [`fuellung-zimt.md`](fuellung-zimt.md)).
 4. Von der langen Seite eng aufrollen, in 3-4 cm dicke Scheiben schneiden.
-5. In gefettete Auflaufform setzen, nochmal 20 min abgedeckt ruhen lassen.
+5. In gefettete Auflaufform setzen (ab Faktor 2: zwei Formen oder ein tiefes Blech), nochmal 20 min abgedeckt ruhen lassen.
 6. Bei 180°C Ober-/Unterhitze 20-25 min goldbraun backen.
 
 ## Skalierung
@@ -38,6 +38,6 @@ Ei und Hefe in Gramm abwiegen statt zählen (schlecht stückelbar).
 | Butter | 80 g × Faktor |
 | Ei | 55 g × Faktor |
 | Trockenhefe | 7 g × Faktor |
-| Salz | 1 Prise pro Faktor 1, ab Faktor 2 nach Gefühl aufrunden |
+| Salz | 3 g × Faktor |
 
 Verwendet in: [`zimtschnecken.md`](zimtschnecken.md), [`zimtschnecken-laktosefrei.md`](zimtschnecken-laktosefrei.md), [`zimtschnecken-mit-puddingcreme-frischkaese-frosting.md`](zimtschnecken-mit-puddingcreme-frischkaese-frosting.md)

@@ -13,7 +13,7 @@ Warm serviert, eigener Behälter zum Transport.
 
 Zucker bei mittlerer Hitze goldbraun schmelzen (nicht rühren). Butter
 einrühren. Topf von der Herdplatte nehmen, dann vorsichtig mit der Sahne
-ablöschen (spritzt/kocht auf!). Glattrühren. Abkühlen lassen, in eigenen
+ablöschen (spritzt/kocht auf - Sahne vorher leicht erwärmen, dann weniger). Glattrühren. Abkühlen lassen, in eigenen
 Behälter füllen, vor dem Servieren leicht anwärmen.
 
 ## Reicht für

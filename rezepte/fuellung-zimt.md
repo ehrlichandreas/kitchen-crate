@@ -1,6 +1,6 @@
 # Zimt-Füllung
 
-Für 12 Stück Hefeteig (siehe [`hefeteig-grundrezept.md`](hefeteig-grundrezept.md), Schritt 3).
+**Reicht für:** 12 Stück Hefeteig (siehe [`hefeteig-grundrezept.md`](hefeteig-grundrezept.md), Schritt 3).
 
 **Variante wählen:** normal = reguläre Butter, laktosefrei = laktosefreie Butter.
 
