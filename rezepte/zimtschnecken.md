@@ -25,6 +25,29 @@ Faktor-Tabellen stehen in [`hefeteig-grundrezept.md`](hefeteig-grundrezept.md) u
 - Saucen: bei drei Saucen zur Auswahl reicht je 1× (3 × ca. 12 Portionen für
   24-27 Schnecken). Wer sicher gehen will, macht das Frosting 1,5×.
 
+## Ablaufplan für die Feier
+
+Abgeleitet aus den Zeiten der Teile - Saucen halten gekühlt bis zum nächsten Tag.
+
+**Vortag, abends (ca. 1 h):** alle drei Saucen kochen, abkühlen lassen, je in
+eigenen Behälter, Kühlschrank.
+
+**Morgen der Feier, ca. 3,5 h vor Abfahrt:**
+
+| ab | was |
+|---|---|
+| 0:00 | Normalen Teig (Faktor 2-2,25) ansetzen; laktosefreien Teig (Faktor 0,5) in eigener Schüssel |
+| 0:15 | Beide Teige gehen lassen, 45-60 min |
+| 1:15 | Ausrollen, füllen, schneiden - laktosefrei zuerst und in eigene Form, dann normal |
+| 1:45 | Zweites Gehen, 20 min |
+| 2:05 | Backen, 20-25 min. Zwei Formen zusammen, wenn der Ofen es hergibt, sonst nacheinander - die zweite wartet dann 25 min länger, das verträgt der Teig |
+| 2:35 | Auskühlen, ca. 30 min |
+| 3:05 | Einpacken: Schnecken pur, Saucen in ihren Behältern, laktosefreie Charge erkennbar getrennt |
+
+**Vor Ort:** Frosting kalt streichen. Vanillesauce und Karamell kurz in der
+Mikrowelle anwärmen, sonst zimmerwarm - Karamell ist zimmerwarm gießbar, aus
+dem Kühlschrank dickflüssig.
+
 ## Transport / Arbeit
 
 - Normale Schnecken + laktosefreie Extra-Charge getrennt/erkennbar transportieren.

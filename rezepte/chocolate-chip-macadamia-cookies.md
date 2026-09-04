@@ -40,3 +40,5 @@ löste sich beim Backen nicht komplett auf, man merkte ihn beim Kauen).
 
 - Fehlt eine Zutat? Siehe [`../substitution.md`](../substitution.md)
 - Ausgangspunkt: Rezept mit Lidl-Zutaten, über mehrere Backdurchgänge angepasst
+
+Verwendet in: [`chocolate-chip-cookies-nussfrei.md`](chocolate-chip-cookies-nussfrei.md)

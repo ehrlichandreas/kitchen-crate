@@ -40,4 +40,4 @@ Ei und Hefe in Gramm abwiegen statt zählen (schlecht stückelbar).
 | Trockenhefe | 7 g × Faktor |
 | Salz | 3 g × Faktor |
 
-Verwendet in: [`zimtschnecken.md`](zimtschnecken.md), [`zimtschnecken-laktosefrei.md`](zimtschnecken-laktosefrei.md), [`zimtschnecken-mit-puddingcreme-frischkaese-frosting.md`](zimtschnecken-mit-puddingcreme-frischkaese-frosting.md)
+Verwendet in: [`zimtschnecken.md`](zimtschnecken.md), [`zimtschnecken-laktosefrei.md`](zimtschnecken-laktosefrei.md), [`zimtschnecken-mit-puddingcreme-frischkaese-frosting.md`](zimtschnecken-mit-puddingcreme-frischkaese-frosting.md), [`puddingschnecken.md`](puddingschnecken.md)

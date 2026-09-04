@@ -4,21 +4,26 @@ Rezeptsammlung in reinem Markdown, zum Nachbacken und Weitergeben.
 
 ## Übersicht
 
+Allergene in Klammern: **G** Gluten, **E** Ei, **M** Milch, **N** Nüsse.
+Laktosefrei ist nicht milchfrei.
+
 **Gerichte / Kombis**
 
-- [Zimtschnecken](rezepte/zimtschnecken.md) - Teig + Füllung + alle drei Saucen, skalierbar auf beliebige Stückzahl
-- [Zimtschnecken laktosefrei](rezepte/zimtschnecken-laktosefrei.md) - laktosefreier Teig, ohne Sauce
-- [Zimtschnecken mit Puddingcreme-Frischkäse-Frosting](rezepte/zimtschnecken-mit-puddingcreme-frischkaese-frosting.md) - ungetestet
-- [Chocolate-Chip-Macadamia-Cookies](rezepte/chocolate-chip-macadamia-cookies.md) - ca. 50 Stück, **enthält Nüsse**
+- [Zimtschnecken](rezepte/zimtschnecken.md) - Teig + Füllung + alle drei Saucen, skalierbar auf beliebige Stückzahl (G, E, M)
+- [Zimtschnecken laktosefrei](rezepte/zimtschnecken-laktosefrei.md) - laktosefreier Teig, ohne Sauce (G, E, M laktosefrei)
+- [Zimtschnecken mit Puddingcreme-Frischkäse-Frosting](rezepte/zimtschnecken-mit-puddingcreme-frischkaese-frosting.md) - ungetestet (G, E, M)
+- [Puddingschnecken](rezepte/puddingschnecken.md) - Hefeteig mit Puddingcreme als Füllung, ungetestet (G, E, M)
+- [Chocolate-Chip-Macadamia-Cookies](rezepte/chocolate-chip-macadamia-cookies.md) - ca. 50 Stück (G, E, M, **N**)
+- [Chocolate-Chip-Cookies nussfrei](rezepte/chocolate-chip-cookies-nussfrei.md) - Basis ohne Macadamia, ungetestet (G, E, M)
 
 **Teile** (von den Kombis referenziert, funktionieren aber auch für sich)
 
-- [Hefeteig-Grundrezept](rezepte/hefeteig-grundrezept.md) - 12 Stück, normal oder laktosefrei, mit Skalierungstabelle
-- [Zimt-Füllung](rezepte/fuellung-zimt.md)
-- [Vanillesauce](rezepte/sauce-vanille.md)
-- [Frischkäse-Frosting](rezepte/sauce-frischkaese-frosting.md)
-- [Karamellsauce](rezepte/sauce-karamell.md)
-- [Puddingcreme](rezepte/puddingcreme.md)
+- [Hefeteig-Grundrezept](rezepte/hefeteig-grundrezept.md) - 12 Stück, normal oder laktosefrei, mit Skalierungstabelle (G, E, M)
+- [Zimt-Füllung](rezepte/fuellung-zimt.md) (M)
+- [Vanillesauce](rezepte/sauce-vanille.md) (M, E)
+- [Frischkäse-Frosting](rezepte/sauce-frischkaese-frosting.md) (M)
+- [Karamellsauce](rezepte/sauce-karamell.md) (M)
+- [Puddingcreme](rezepte/puddingcreme.md) (M, E)
 
 **Nachschlagen**
 
