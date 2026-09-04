@@ -4,7 +4,7 @@ Basis für gerollte Hefegebäcke (z.B. Zimtschnecken). Ergibt **12 Stück**.
 
 **Variante wählen:**
 - normal: reguläre Milch + Butter
-- laktosefrei: laktosefreie Milch + Butter (1:1 austauschbar, siehe `../substitution.md`)
+- laktosefrei: laktosefreie Milch + Butter (1:1 austauschbar, siehe [`../substitution.md`](../substitution.md))
 
 ## Zutaten (Faktor 1 = 12 Stück)
 
@@ -20,7 +20,7 @@ Basis für gerollte Hefegebäcke (z.B. Zimtschnecken). Ergibt **12 Stück**.
 
 1. Mehl, Hefe, Zucker, Salz mischen. Milch, Ei, weiche Butter dazu, zu glattem Teig verkneten.
 2. Abgedeckt 45-60 min gehen lassen, bis Volumen sich verdoppelt.
-3. Rechteckig ausrollen (ca. 40x50 cm), mit der vorbereiteten Füllung bestreichen (siehe fuellung-zimt.md).
+3. Rechteckig ausrollen (ca. 40x50 cm), mit der vorbereiteten Füllung bestreichen (siehe [`fuellung-zimt.md`](fuellung-zimt.md)).
 4. Von der langen Seite eng aufrollen, in 3-4 cm dicke Scheiben schneiden.
 5. In gefettete Auflaufform setzen, nochmal 20 min abgedeckt ruhen lassen.
 6. Bei 180°C Ober-/Unterhitze 20-25 min goldbraun backen.
@@ -40,4 +40,4 @@ Ei und Hefe in Gramm abwiegen statt zählen (schlecht stückelbar).
 | Trockenhefe | 7 g × Faktor |
 | Salz | 1 Prise pro Faktor 1, ab Faktor 2 nach Gefühl aufrunden |
 
-Verwendet in: `zimtschnecken.md`, `zimtschnecken-laktosefrei.md`, `zimtschnecken-puddingcreme-frosting.md`
+Verwendet in: [`zimtschnecken.md`](zimtschnecken.md), [`zimtschnecken-laktosefrei.md`](zimtschnecken-laktosefrei.md), [`zimtschnecken-mit-puddingcreme-frischkaese-frosting.md`](zimtschnecken-mit-puddingcreme-frischkaese-frosting.md)

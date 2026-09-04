@@ -25,4 +25,4 @@ bildet sich Haut).
 ca. 12 Schnecken (1× Hefeteig-Grundrezept) bei mittlerer Menge - für mehr
 mit demselben Faktor wie beim Teig multiplizieren.
 
-Verwendet in: `zimtschnecken-puddingcreme-frosting.md` (ungetestet)
+Verwendet in: [`zimtschnecken-mit-puddingcreme-frischkaese-frosting.md`](zimtschnecken-mit-puddingcreme-frischkaese-frosting.md) (ungetestet)

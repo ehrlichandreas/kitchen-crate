@@ -2,7 +2,7 @@
 
 **Portionen:** 12 Schnecken bei Faktor 1 (siehe "Skalierung" unten)
 **Kategorie:** Backen
-**Enthält keine Nüsse.** Für Laktoseintoleranz: `zimtschnecken-laktosefrei.md`.
+**Enthält keine Nüsse.** Für Laktoseintoleranz: [`zimtschnecken-laktosefrei.md`](zimtschnecken-laktosefrei.md).
 
 ## Bestandteile
 
@@ -13,15 +13,15 @@
   - [`sauce-frischkaese-frosting.md`](sauce-frischkaese-frosting.md)
   - [`sauce-karamell.md`](sauce-karamell.md)
 
-Zubereitung: hefeteig-grundrezept.md Schritt 1-6, Füllung wird in Schritt 3 aufgetragen.
+Zubereitung: [`hefeteig-grundrezept.md`](hefeteig-grundrezept.md) Schritt 1-6, Füllung wird in Schritt 3 aufgetragen.
 
 ## Skalierung für diese Feier (25-30 Kollegen, davon 3 laktoseintolerant)
 
-Faktor-Tabellen stehen in hefeteig-grundrezept.md und fuellung-zimt.md.
+Faktor-Tabellen stehen in [`hefeteig-grundrezept.md`](hefeteig-grundrezept.md) und [`fuellung-zimt.md`](fuellung-zimt.md).
 
 - Normal: 22-27 Schnecken nötig → **Faktor 2** (24 Stück) für die untere
   Spanne, **Faktor 2,25** (27 Stück) für die obere.
-- Laktosefrei (3 Personen): siehe `zimtschnecken-laktosefrei.md`.
+- Laktosefrei (3 Personen): siehe [`zimtschnecken-laktosefrei.md`](zimtschnecken-laktosefrei.md).
 
 ## Transport / Arbeit
 
@@ -33,5 +33,5 @@ Faktor-Tabellen stehen in hefeteig-grundrezept.md und fuellung-zimt.md.
 
 ## Notizen
 
-- Fehlt eine Zutat? Siehe `../substitution.md`
-- Ungetestete Variante mit Puddingcreme-Frosting: `zimtschnecken-puddingcreme-frosting.md`
+- Fehlt eine Zutat? Siehe [`../substitution.md`](../substitution.md)
+- Ungetestete Variante mit Puddingcreme-Frischkäse-Frosting: [`zimtschnecken-mit-puddingcreme-frischkaese-frosting.md`](zimtschnecken-mit-puddingcreme-frischkaese-frosting.md)

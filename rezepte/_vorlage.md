@@ -16,4 +16,4 @@
 
 ## Notizen
 
-- Fehlt eine Zutat? Siehe `../substitution.md`
+- Fehlt eine Zutat? Siehe [`../substitution.md`](../substitution.md)

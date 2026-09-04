@@ -21,4 +21,4 @@ Abkühlen lassen, in eigenen Behälter füllen, vor dem Servieren aufwärmen.
 ca. 12 Schnecken (1× Hefeteig-Grundrezept) bei mittlerer Menge pro Stück -
 für mehr mit demselben Faktor wie beim Teig multiplizieren.
 
-Verwendet in: `zimtschnecken.md`
+Verwendet in: [`zimtschnecken.md`](zimtschnecken.md)

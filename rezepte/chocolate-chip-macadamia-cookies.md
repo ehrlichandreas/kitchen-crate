@@ -37,5 +37,5 @@ löste sich beim Backen nicht komplett auf, man merkte ihn beim Kauen).
 
 ## Notizen
 
-- Fehlt eine Zutat? Siehe `../substitution.md`
+- Fehlt eine Zutat? Siehe [`../substitution.md`](../substitution.md)
 - Ursprüngliche Quelle: privates ChatGPT-Gespräch zu Lidl-Zutaten, iterativ entwickelt

@@ -21,4 +21,4 @@ Behälter füllen, vor dem Servieren leicht anwärmen.
 ca. 15-20 Schnecken als Drizzle (dünner Faden statt vollflächig) - für mehr
 mit demselben Faktor wie beim Teig multiplizieren.
 
-Verwendet in: `zimtschnecken.md`
+Verwendet in: [`zimtschnecken.md`](zimtschnecken.md)

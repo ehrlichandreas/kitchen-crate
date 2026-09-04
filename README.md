@@ -8,7 +8,7 @@ Rezeptsammlung in reinem Markdown, zum Nachbacken und Weitergeben.
 
 - [Zimtschnecken](rezepte/zimtschnecken.md) - Teig + Füllung + alle drei Saucen, skalierbar auf beliebige Stückzahl
 - [Zimtschnecken laktosefrei](rezepte/zimtschnecken-laktosefrei.md) - laktosefreier Teig, ohne Sauce
-- [Zimtschnecken mit Puddingcreme-Frosting](rezepte/zimtschnecken-puddingcreme-frosting.md) - ungetestet
+- [Zimtschnecken mit Puddingcreme-Frischkäse-Frosting](rezepte/zimtschnecken-mit-puddingcreme-frischkaese-frosting.md) - ungetestet
 - [Chocolate-Chip-Macadamia-Cookies](rezepte/chocolate-chip-macadamia-cookies.md) - ca. 50 Stück
 
 **Teile** (von den Kombis referenziert, funktionieren aber auch für sich)
@@ -34,8 +34,8 @@ bauen, ohne Rezepte zu duplizieren. Mengen skalieren über einen Faktor
 
 - `rezepte/` - alles gleichrangig: komplette Gerichte, Teile (Teig, Füllung,
   Sauce) und "Kombi"-Dateien, die andere Dateien im selben Ordner
-  referenzieren statt sie zu duplizieren. `_vorlage.md` kopieren zum Anlegen.
-- `substitution.md` - Zutat X fehlt? Was ersetzt sie, in welchem Verhältnis
+  referenzieren statt sie zu duplizieren. [`_vorlage.md`](rezepte/_vorlage.md) kopieren zum Anlegen.
+- [`substitution.md`](substitution.md) - Zutat X fehlt? Was ersetzt sie, in welchem Verhältnis
 
 ## Rezept anlegen
 

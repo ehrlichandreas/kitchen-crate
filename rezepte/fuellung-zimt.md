@@ -1,6 +1,6 @@
 # Zimt-Füllung
 
-Für 12 Stück Hefeteig (siehe `hefeteig-grundrezept.md`, Schritt 3).
+Für 12 Stück Hefeteig (siehe [`hefeteig-grundrezept.md`](hefeteig-grundrezept.md), Schritt 3).
 
 **Variante wählen:** normal = reguläre Butter, laktosefrei = laktosefreie Butter.
 
@@ -25,4 +25,4 @@ Faktor wie im Grundrezept (Stückzahl ÷ 12).
 | Brauner Zucker | 100 g × Faktor |
 | Zimt | 2,5 TL × Faktor |
 
-Verwendet in: `zimtschnecken.md`, `zimtschnecken-laktosefrei.md`, `zimtschnecken-puddingcreme-frosting.md`
+Verwendet in: [`zimtschnecken.md`](zimtschnecken.md), [`zimtschnecken-laktosefrei.md`](zimtschnecken-laktosefrei.md), [`zimtschnecken-mit-puddingcreme-frischkaese-frosting.md`](zimtschnecken-mit-puddingcreme-frischkaese-frosting.md)
