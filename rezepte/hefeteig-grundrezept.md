@@ -40,4 +40,4 @@ Ei und Hefe in Gramm abwiegen statt zählen (schlecht stückelbar).
 | Trockenhefe | 7 g × Faktor |
 | Salz | 1 Prise pro Faktor 1, ab Faktor 2 nach Gefühl aufrunden |
 
-Verwendet in: `zimtschnecken.md`, `zimtschnecken-laktosefrei.md`
+Verwendet in: `zimtschnecken.md`, `zimtschnecken-laktosefrei.md`, `zimtschnecken-puddingcreme-frosting.md`

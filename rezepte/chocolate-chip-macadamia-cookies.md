@@ -12,7 +12,7 @@ löste sich beim Backen nicht komplett auf, man merkte ihn beim Kauen).
 - 525 g Butter, weich bei Raumtemperatur
 - 500 g brauner Zucker (fein, nicht grob/roh - grober Zucker löst sich schlechter auf)
 - 100 g weißer Zucker
-- ein paar Tropfen Vanillearoma (statt Vanillezucker/-extrakt - günstiger, kein Extra-Zucker)
+- 30 g Vanillezucker (ca. 4 Päckchen)
 - 4 Eier Größe M (ca. 200g ohne Schale)
 - 840 g Weizenmehl Type 405
 - 10 g Natron
@@ -25,7 +25,7 @@ löste sich beim Backen nicht komplett auf, man merkte ihn beim Kauen).
 ## Zubereitung
 
 1. **Macadamias vorbereiten:** Falls gesalzen, kurz unter kaltem Wasser abspülen, gründlich trockenreiben, grob hacken. Bei Bedarf 8-10 Min bei 150-160°C trocknen, auf Raumtemperatur abkühlen lassen.
-2. **Butter und Zucker cremig rühren:** Butter, beide Zucker und Vanillearoma mit dem Flachrührer/K-Rührer auf mittlerer Stufe **3-4 Minuten** cremig rühren (länger als üblich, damit sich der Zucker vollständig löst). Masse soll gleichmäßig und etwas heller werden, nicht extrem luftig.
+2. **Butter und Zucker cremig rühren:** Butter, beide Zucker und Vanillezucker mit dem Flachrührer/K-Rührer auf mittlerer Stufe **3-4 Minuten** cremig rühren (länger als üblich, damit sich der Zucker vollständig löst). Masse soll gleichmäßig und etwas heller werden, nicht extrem luftig.
 3. **Eier einarbeiten:** Die 4 Eier einzeln zugeben, nach jedem Ei 15-20 Sek auf niedriger bis mittlerer Stufe rühren.
 4. **Trockene Zutaten mischen:** Mehl, Natron, Backpulver und Salz separat gründlich vermischen.
 5. **Mehl einarbeiten:** Küchenmaschine auf niedrigste Stufe, trockene Mischung in 3 Portionen zugeben, nach jeder Portion nur kurz rühren. Sobald kein trockenes Mehl mehr sichtbar ist, stoppen (nicht überkneten, sonst zu viel Gluten).

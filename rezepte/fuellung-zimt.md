@@ -25,4 +25,4 @@ Faktor wie im Grundrezept (Stückzahl ÷ 12).
 | Brauner Zucker | 100 g × Faktor |
 | Zimt | 2,5 TL × Faktor |
 
-Verwendet in: `zimtschnecken.md`, `zimtschnecken-laktosefrei.md`
+Verwendet in: `zimtschnecken.md`, `zimtschnecken-laktosefrei.md`, `zimtschnecken-puddingcreme-frosting.md`

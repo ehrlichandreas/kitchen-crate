@@ -34,3 +34,4 @@ Faktor-Tabellen stehen in hefeteig-grundrezept.md und fuellung-zimt.md.
 ## Notizen
 
 - Fehlt eine Zutat? Siehe `../substitution.md`
+- Ungetestete Variante mit Puddingcreme-Frosting: `zimtschnecken-puddingcreme-frosting.md`
