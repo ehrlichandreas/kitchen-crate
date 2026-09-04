@@ -48,6 +48,32 @@ eigenen Behälter, Kühlschrank.
 Mikrowelle anwärmen, sonst zimmerwarm - Karamell ist zimmerwarm gießbar, aus
 dem Kühlschrank dickflüssig.
 
+## Einkaufsliste für diese Feier
+
+Gerechnet für Faktor 2,25 normal (27 Stück) + Faktor 0,5 laktosefrei (6 Stück),
+Vanillesauce und Karamell je 1×, Frosting 1,5×. Bei Faktor 2 entsprechend
+weniger. "Zucker" ist weißer Zucker über Teig, Vanillesauce und Karamell hinweg.
+
+| Zutat | Menge gesamt | kaufen |
+|---|---|---|
+| Weizenmehl 405 | 1375 g | 2 × 1 kg |
+| Milch (ml) | 1062 ml | 2 × 1 l |
+| Zucker | 372 g | 1 kg |
+| Butter | 535 g | 3 × 250 g |
+| Ei | 151 g | ca. 3 Eier, abwiegen (+ 2 Eigelb für die Vanillesauce = 5 Eier) |
+| Trockenhefe | 19 g | 3 Päckchen à 7 g |
+| Salz | 8 g | Vorrat |
+| Brauner Zucker | 275 g | 1 × 500 g |
+| Zimt (TL) | ca. 7 | 1 Dose reicht |
+| laktosefrei: Milch (ml) | 125 ml | kleinste Packung |
+| laktosefrei: Butter | 90 g | 1 Päckchen |
+| Vanillezucker (Pck.) | 2,5 | aufrunden auf 3 |
+| Eigelb (Stück) | 2 | siehe Ei |
+| Speisestärke (EL) | 1 | Vorrat |
+| Frischkäse Doppelrahm | 225 g | 2 × 200 g oder 1 × 300 g |
+| Puderzucker | 225 g | 1 × 250 g |
+| Schlagsahne | 150 g | 1 Becher 200 g |
+
 ## Transport / Arbeit
 
 - Normale Schnecken + laktosefreie Extra-Charge getrennt/erkennbar transportieren.
