@@ -1,7 +1,34 @@
 # kitchen-crate
 
-Private Sammlung: Rezepte, Substitution, alles rund ums Kochen/Backen.
-Startet als reines Markdown, wächst mit Bedarf.
+Rezeptsammlung in reinem Markdown, zum Nachbacken und Weitergeben.
+
+## Übersicht
+
+**Gerichte / Kombis**
+
+- [Zimtschnecken](rezepte/zimtschnecken.md) - Teig + Füllung + alle drei Saucen, skalierbar auf beliebige Stückzahl
+- [Zimtschnecken laktosefrei](rezepte/zimtschnecken-laktosefrei.md) - laktosefreier Teig, ohne Sauce
+- [Zimtschnecken mit Puddingcreme-Frosting](rezepte/zimtschnecken-puddingcreme-frosting.md) - ungetestet
+- [Chocolate-Chip-Macadamia-Cookies](rezepte/chocolate-chip-macadamia-cookies.md) - ca. 50 Stück
+
+**Teile** (von den Kombis referenziert, funktionieren aber auch für sich)
+
+- [Hefeteig-Grundrezept](rezepte/hefeteig-grundrezept.md) - 12 Stück, normal oder laktosefrei, mit Skalierungstabelle
+- [Zimt-Füllung](rezepte/fuellung-zimt.md)
+- [Vanillesauce](rezepte/sauce-vanille.md)
+- [Frischkäse-Frosting](rezepte/sauce-frischkaese-frosting.md)
+- [Karamellsauce](rezepte/sauce-karamell.md)
+- [Puddingcreme](rezepte/puddingcreme.md)
+
+**Nachschlagen**
+
+- [Substitutionsliste](substitution.md) - Zutat fehlt? Was stattdessen geht, in welchem Verhältnis
+
+Rezepte sind in Teile zerlegt (Teig, Füllung, Saucen), die für sich stehen.
+Eine "Kombi"-Datei sagt, welche Teile in welcher Variante zusammengehören
+und wo sie vom Basis-Rezept abweichen - so lassen sich neue Kombinationen
+bauen, ohne Rezepte zu duplizieren. Mengen skalieren über einen Faktor
+(Stückzahl ÷ 12), die Tabellen dazu stehen in den Teil-Rezepten.
 
 ## Struktur
 
@@ -22,6 +49,7 @@ Regeln:
 - Jedes Rezept nennt, wie viel es ergibt ("Portionen" bzw. "Reicht für").
 - Teile, die von anderen Rezepten genutzt werden, führen unten "Verwendet in:".
 - Ungetestete Ideen werden als solche markiert, nicht als Fakt.
+- Neues Rezept = Eintrag in der Übersicht oben, sonst findet es niemand.
 
 ## Wachstumspfad (nicht jetzt bauen, nur damit klar ist wohin)
 
