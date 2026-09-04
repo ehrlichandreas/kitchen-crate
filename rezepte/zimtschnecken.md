@@ -15,7 +15,7 @@
 
 Zubereitung: [`hefeteig-grundrezept.md`](hefeteig-grundrezept.md) Schritt 1-6, Füllung wird in Schritt 3 aufgetragen.
 
-## Skalierung für diese Feier (25-30 Kollegen, davon 3 laktoseintolerant)
+## Skalierung für die Arbeit (25-30 Kollegen, davon 3 laktoseintolerant)
 
 Faktor-Tabellen stehen in [`hefeteig-grundrezept.md`](hefeteig-grundrezept.md) und [`fuellung-zimt.md`](fuellung-zimt.md).
 
@@ -25,14 +25,14 @@ Faktor-Tabellen stehen in [`hefeteig-grundrezept.md`](hefeteig-grundrezept.md) u
 - Saucen: bei drei Saucen zur Auswahl reicht je 1× (3 × ca. 12 Portionen für
   24-27 Schnecken). Wer sicher gehen will, macht das Frosting 1,5×.
 
-## Ablaufplan für die Feier
+## Ablaufplan
 
 Abgeleitet aus den Zeiten der Teile - Saucen halten gekühlt bis zum nächsten Tag.
 
 **Vortag, abends (ca. 1 h):** alle drei Saucen kochen, abkühlen lassen, je in
 eigenen Behälter, Kühlschrank.
 
-**Morgen der Feier, ca. 3,5 h vor Abfahrt:**
+**Am Morgen, ca. 3,5 h vor Abfahrt:**
 
 | ab | was |
 |---|---|
@@ -48,7 +48,7 @@ eigenen Behälter, Kühlschrank.
 Mikrowelle anwärmen, sonst zimmerwarm - Karamell ist zimmerwarm gießbar, aus
 dem Kühlschrank dickflüssig.
 
-## Einkaufsliste für diese Feier
+## Einkaufsliste
 
 Gerechnet für Faktor 2,25 normal (27 Stück) + Faktor 0,5 laktosefrei (6 Stück),
 Vanillesauce und Karamell je 1×, Frosting 1,5×. Bei Faktor 2 entsprechend

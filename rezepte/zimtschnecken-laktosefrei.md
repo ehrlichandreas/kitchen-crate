@@ -16,7 +16,7 @@
 
 Zubereitung: [`hefeteig-grundrezept.md`](hefeteig-grundrezept.md) Schritt 1-6, Füllung wird in Schritt 3 aufgetragen.
 
-## Skalierung für diese Feier (3 Betroffene)
+## Skalierung für die Arbeit (3 Betroffene)
 
 Faktor-Tabellen stehen in [`hefeteig-grundrezept.md`](hefeteig-grundrezept.md) und [`fuellung-zimt.md`](fuellung-zimt.md).
 
