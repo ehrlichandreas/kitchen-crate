@@ -25,11 +25,11 @@ Alles zusammengerechnet über Puddingcreme, Teig, Füllung und Frosting.
 | Frischkäse Doppelrahm | 75 g |  |
 | Ei (Stück) | 0,5 | 1 Ei verquirlen, die Hälfte nehmen |
 | Eigelb (Stück) | 1 | vom zweiten Ei, insgesamt also 2 Eier |
-| Trockenhefe | 3.5 g | ein halbes Päckchen |
+| Trockenhefe | 3,5 g | ein halbes Päckchen |
 | Speisestärke | 15 g |  |
 | Vanillezucker (Päckchen) | 0,5 | ca. 4 g |
 | Zimt (TL) | 1,25 |  |
-| Salz | 1.5 g | ca. 1/4 TL, plus 1 Prise für die Puddingcreme |
+| Salz | 1,5 g | ca. 1/4 TL, plus 1 Prise für die Puddingcreme |
 
 ## Zutaten
 
