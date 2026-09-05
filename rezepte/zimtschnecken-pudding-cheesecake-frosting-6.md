@@ -9,6 +9,8 @@ Komplett ausgeschrieben, Faktor 0,5 der Kombi
 [`zimtschnecken-mit-puddingcreme-frischkaese-frosting.md`](zimtschnecken-mit-puddingcreme-frischkaese-frosting.md).
 Bewusst eine Kopie: zum Backen soll man nicht blättern müssen. Ändert sich ein
 Teil-Rezept, hier nachziehen.
+Abweichung von der Kombi: brauner statt weißer Zucker im Teig (Karamellnote,
+sonst ohne Wirkung); Pudding und Frosting unverändert.
 
 ## Gesamtmengen (Einkauf)
 
@@ -19,8 +21,8 @@ Alles zusammengerechnet über Puddingcreme, Teig, Füllung und Frosting.
 | Weizenmehl Type 405 | 250 g |  |
 | Milch (ml) | 375 ml |  |
 | Butter | 120 g | plus etwas für die Form, also ein halbes 250-g-Päckchen |
-| Zucker | 65 g |  |
-| Brauner Zucker | 50 g |  |
+| Zucker | 30 g | nur für die Puddingcreme |
+| Brauner Zucker | 85 g | Teig und Füllung |
 | Puderzucker | 55 g | 50-60 g, je nach Süße |
 | Frischkäse Doppelrahm | 75 g |  |
 | Ei (Stück) | 0,5 | 1 Ei verquirlen, die Hälfte nehmen |
@@ -45,7 +47,7 @@ Alles zusammengerechnet über Puddingcreme, Teig, Füllung und Frosting.
 - 250 g Weizenmehl Type 405
 - 3,5 g Trockenhefe (1/2 Päckchen)
 - 125 ml Milch, lauwarm
-- 35 g Zucker
+- 35 g brauner Zucker
 - 40 g Butter, weich
 - 1/4 TL Salz (ca. 1,5 g)
 - 1/2 Ei: 1 Ei verquirlen, davon ca. 2 EL (27 g) nehmen
