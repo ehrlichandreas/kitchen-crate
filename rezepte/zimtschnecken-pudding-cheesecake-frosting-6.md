@@ -10,6 +10,27 @@ Komplett ausgeschrieben, Faktor 0,5 der Kombi
 Bewusst eine Kopie: zum Backen soll man nicht blättern müssen. Ändert sich ein
 Teil-Rezept, hier nachziehen.
 
+## Gesamtmengen (Einkauf)
+
+Alles zusammengerechnet über Puddingcreme, Teig, Füllung und Frosting.
+
+| Zutat | gesamt | Hinweis |
+|---|---|---|
+| Weizenmehl Type 405 | 250 g |  |
+| Milch (ml) | 375 ml |  |
+| Butter | 120 g | plus etwas für die Form, also ein halbes 250-g-Päckchen |
+| Zucker | 65 g |  |
+| Brauner Zucker | 50 g |  |
+| Puderzucker | 55 g | 50-60 g, je nach Süße |
+| Frischkäse Doppelrahm | 75 g |  |
+| Ei (Stück) | 0,5 | 1 Ei verquirlen, die Hälfte nehmen |
+| Eigelb (Stück) | 1 | vom zweiten Ei, insgesamt also 2 Eier |
+| Trockenhefe | 3.5 g | ein halbes Päckchen |
+| Speisestärke | 15 g |  |
+| Vanillezucker (Päckchen) | 0,5 | ca. 4 g |
+| Zimt (TL) | 1,25 |  |
+| Salz | 1.5 g | ca. 1/4 TL, plus 1 Prise für die Puddingcreme |
+
 ## Zutaten
 
 **Puddingcreme** (halbe Menge, es wird nur ein Teil gebraucht, Rest ist Dessert)
