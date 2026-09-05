@@ -44,3 +44,4 @@ multiplizieren.
 
 - Fehlt eine Zutat? Siehe [`../substitution.md`](../substitution.md)
 - Verifizierte Variante mit allen drei Saucen: [`zimtschnecken.md`](zimtschnecken.md)
+- Komplett ausgeschrieben für 6 Stück (Probebacken): [`zimtschnecken-pudding-cheesecake-frosting-6.md`](zimtschnecken-pudding-cheesecake-frosting-6.md)
