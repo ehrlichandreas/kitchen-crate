@@ -15,6 +15,7 @@ Basis für gerollte Hefegebäcke (z.B. Zimtschnecken). Ergibt **12 Stück**.
 - 80 g weiche Butter (Variante)
 - 1/2 TL Salz (ca. 3 g)
 - 1 Ei (≈ 55 g)
+- optional: 1 Päckchen Backpulver (ca. 15 g) zu den trockenen Zutaten - zusätzlicher Trieb, macht die Krume etwas kuchiger; beim Probebacken mit halbem Päckchen auf Faktor 0,5 gut gelungen
 
 ## Zubereitung
 
@@ -39,5 +40,6 @@ Ei und Hefe in Gramm abwiegen statt zählen (schlecht stückelbar).
 | Ei | 55 g × Faktor |
 | Trockenhefe | 7 g × Faktor |
 | Salz | 3 g × Faktor |
+| Backpulver (optional) | 15 g × Faktor |
 
 Verwendet in: [`zimtschnecken.md`](zimtschnecken.md), [`zimtschnecken-laktosefrei.md`](zimtschnecken-laktosefrei.md), [`zimtschnecken-mit-puddingcreme-frischkaese-frosting.md`](zimtschnecken-mit-puddingcreme-frischkaese-frosting.md), [`puddingschnecken.md`](puddingschnecken.md), [`schokoschnecken.md`](schokoschnecken.md)

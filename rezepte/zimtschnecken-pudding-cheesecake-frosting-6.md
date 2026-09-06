@@ -50,6 +50,7 @@ Alles zusammengerechnet über Puddingcreme, Teig, Füllung und Frosting.
 - 35 g brauner Zucker
 - 40 g Butter, weich
 - 1/4 TL Salz (ca. 1,5 g)
+- 1/2 Päckchen Backpulver (ca. 8 g) - zusätzlicher Trieb, hat sich beim ersten Versuch bewährt
 - 1/2 Ei: 1 Ei verquirlen, davon ca. 2 EL (27 g) nehmen
 
 **Zimt-Füllung**
@@ -77,7 +78,7 @@ vom anderen das Eigelb).
 
 **B. Hefeteig**
 
-5. Mehl, Trockenhefe, Zucker und Salz in einer Schüssel mischen.
+5. Mehl, Trockenhefe, Zucker, Salz und Backpulver in einer Schüssel mischen.
 6. Lauwarme Milch (handwarm, nicht heiß, sonst stirbt die Hefe), das halbe Ei und die weiche Butter dazu. Mit Knethaken 8-10 Minuten (von Hand 10-12) zu einem glatten, geschmeidigen Teig kneten. Stopp-Kriterium ist der Fenstertest, nicht die Uhr: ein Stück Teig lässt sich so dünn ausziehen, dass Licht durchscheint, ohne zu reißen. Er darf leicht kleben, aber nicht schmieren; wird er warm und weich, war es zu lang.
 7. Schüssel abdecken, an einem warmen Ort 45-60 Minuten gehen lassen, bis sich das Volumen etwa verdoppelt hat.
 
@@ -116,7 +117,7 @@ etwa 20-25 min geknetet (Rezept: 5-8 min), erste Gehzeit etwa 9 h über Nacht be
 gefaltet und geknetet, dann ausrollen, füllen, rollen und schneiden (beides falsch,
 siehe unten), zweite Gehzeit etwa 1,5 h, gebacken auf Backpapier mit
 Abstand. Zusätzlich 1/2 Päckchen Backpulver (ca. 8 g) in den trockenen Zutaten -
-steht nicht im Rezept, war "zur Sicherheit" drin. Puddingcreme und Frosting
+war "zur Sicherheit" drin, hat gut funktioniert und steht seitdem im Rezept. Puddingcreme und Frosting
 haben funktioniert.
 
 Puddingcreme im Frosting: 80 g. Schokotröpfchen: ca. 25 g auf einer Schnecke.
@@ -163,9 +164,8 @@ am Ende nur, wenn es dann noch ausläuft:
   Schnecken und zieht ein - das ist der gewollte klebrige Boden.
 - Geformte Schnecken vor dem Backen 10-15 Minuten in den Kühlschrank, damit die
   Füllung fest ist, wenn der Teig im Ofen setzt.
-- Backpulver weglassen: die Hefe hat sichtbar gearbeitet, Backpulver macht die
-  Krume kuchiger und kann bitter durchkommen. Erst ohne ist das Grundrezept
-  bestätigt.
+- Backpulver bleibt drin (Entscheidung nach dem Essen). Falls die Krume mal
+  kuchig-bröselig wird oder es bitter durchschmeckt: auf 1/4 Päckchen halbieren.
 - Über Nacht nur im Kühlschrank; 9 h warm ging hier, weil danach gefaltet und
   geknetet wurde - der Kühlschrank ist kontrollierbarer. Oder 45-60 min warm
   wie im Rezept.
