@@ -112,8 +112,11 @@ vom anderen das Eigelb).
 
 Aus dem Teig wurden drei Zimtschnecken und eine Schokoschnecke (Füllung nur
 Schokotröpfchen, sonst nichts). Ablauf abweichend vom Rezept: erste Gehzeit
-etwa 9 h über Nacht bei Raumtemperatur (nicht im Kühlschrank), dann ausrollen, füllen, rollen, schneiden, zweite Gehzeit
-etwa 1,5 h, gebacken auf Backpapier mit Abstand. Puddingcreme und Frosting
+etwa 9 h über Nacht bei Raumtemperatur (nicht im Kühlschrank), danach mehrmals
+gefaltet und geknetet, dann ausrollen, füllen, rollen (falsch gerollt, siehe
+unten), schneiden, zweite Gehzeit etwa 1,5 h, gebacken auf Backpapier mit
+Abstand. Zusätzlich 1/2 Päckchen Backpulver (ca. 8 g) in den trockenen Zutaten -
+steht nicht im Rezept, war "zur Sicherheit" drin. Puddingcreme und Frosting
 haben funktioniert.
 
 Puddingcreme im Frosting: 80 g. Schokotröpfchen: ca. 25 g auf einer Schnecke.
@@ -137,19 +140,18 @@ ist nach unten ausgelaufen und auf dem Papier karamellisiert.
 ![Zimtschnecke 2, unten - blass](bilder/zimtschnecken-pudding-cheesecake-frosting-6/zimt-unten-2.jpg)
 ![Zimtschnecke 3, unten](bilder/zimtschnecken-pudding-cheesecake-frosting-6/zimt-unten-3.jpg)
 
-**Ursachen** - Technik, nicht Mengen:
-1. Auf dem Blech mit Abstand statt eng in einer Form: ohne Wand und Nachbarn
-   läuft die Füllung unten raus, und nichts hält die Spirale zusammen.
-2. Naht nicht festgedrückt oder nach außen gesetzt: die Außenlage springt beim
-   Aufgehen auf.
+**Ursachen** - Technik, nicht Teig:
+1. Falsch gerollt (Befund des Bäckers): die Spirale hatte von Anfang an keinen
+   Halt, deshalb haben sich die Außenlagen gelöst. Kein Teigproblem - der Teig
+   war nach den 9 h gefaltet und geknetet und damit wieder stabil.
+2. Auf dem Blech mit Abstand statt eng in einer Form: ohne Wand und Nachbarn
+   läuft die Füllung unten raus, und nichts stützt die Schnecken.
 3. 1,5 h zweites Gehen bei Raumtemperatur: die Butter-Zucker-Paste wird weich
-   bis flüssig, der Teig verliert Spannung. Dazu 9 h erste Gehzeit bei
-   Raumtemperatur: mit dem halben Päckchen Hefe ist der Teig da vermutlich
-   übergangen - er geht dann noch auf, hat aber weniger Halt.
+   bis flüssig und läuft eher aus.
 
 **Beim nächsten Versuch, eine Änderung nach der anderen:**
-- Über Nacht nur im Kühlschrank (kalte Führung), sonst 45-60 min warm wie im
-  Rezept.
+- Straff rollen: die Startkante umschlagen und andrücken, dann mit beiden Händen
+  eng weiterrollen, Naht festdrücken.
 - Springform oder Auflaufform mit Backpapier, Schnecken eng aneinander. Der
   Sirup bleibt dann unter den Schnecken und zieht ein - das ist der gewollte
   klebrige Boden.
@@ -158,6 +160,11 @@ ist nach unten ausgelaufen und auf dem Papier karamellisiert.
   Füllung fest ist, wenn der Teig im Ofen setzt.
 - Erst wenn das nicht reicht: Füllung mit 80 g statt 100 g Butter, oder 1 TL
   Speisestärke in die Paste.
+- Backpulver weglassen: die Hefe hat sichtbar gearbeitet, Backpulver macht die
+  Krume kuchiger und kann bitter durchkommen. Erst ohne ist das Grundrezept
+  bestätigt.
+- Über Nacht besser im Kühlschrank; 9 h warm ging hier, weil danach gefaltet
+  und geknetet wurde - der Kühlschrank ist kontrollierbarer.
 
 ## Notizen
 

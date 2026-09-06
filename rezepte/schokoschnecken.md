@@ -27,7 +27,8 @@ und [`fuellung-schokotropfen.md`](fuellung-schokotropfen.md).
 ## Erster Versuch (Fotos und Befund)
 
 Teig wie im Probebacken (erste Gehzeit etwa 9 h über Nacht bei Raumtemperatur,
-zweite etwa 1,5 h), eine Schnecke, Füllung ca. 25 g Schokotröpfchen.
+danach gefaltet und geknetet, zweite Gehzeit etwa 1,5 h; zusätzlich 1/2 Päckchen
+Backpulver im Teig), eine Schnecke, Füllung ca. 25 g Schokotröpfchen.
 
 **Oben:** kräftig aufgegangen, gleichmäßig goldbraun mit Glanz, Spirale
 sichtbar, an der Bruchstelle weiche, feine Krume - so soll ein Hefeteig mit
@@ -44,8 +45,8 @@ Tröpfchen sind am Boden verbrannt.
 
 **Beim nächsten Versuch:** Backpapier in die Form, mittlere Schiene; wird der
 Boden trotzdem zu dunkel, die Form für die letzten 5-8 Minuten auf ein zweites
-Blech stellen. Erste Gehzeit 45-60 min warm oder über Nacht im
-Kühlschrank, nicht 9 h bei Raumtemperatur.
+Blech stellen. Ohne Backpulver backen, damit das
+Grundrezept bestätigt ist; über Nacht besser im Kühlschrank.
 
 ## Notizen
 
