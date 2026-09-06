@@ -8,8 +8,8 @@ Auslaufen als bei der Zimt-Füllung.
 
 ## Zutaten (Faktor 1 = 12 Stück)
 
-- 150-250 g Schokotröpfchen, Zartbitter oder Vollmilch (Richtwert: beim
-  ersten Versuch eine Handvoll, ca. 20-25 g, auf einer Schnecke - nicht gewogen)
+- 300 g Schokotröpfchen, Zartbitter oder Vollmilch (ca. 25 g pro Schnecke, so
+  beim ersten Versuch)
 
 ## Anwendung
 
@@ -21,6 +21,6 @@ besser, macht saftiger, läuft aber unten eher aus.
 
 ## Skalierung
 
-Faktor wie im Grundrezept (Stückzahl ÷ 12). Tröpfchen × Faktor.
+Faktor wie im Grundrezept (Stückzahl ÷ 12). 300 g × Faktor.
 
 Verwendet in: [`schokoschnecken.md`](schokoschnecken.md)

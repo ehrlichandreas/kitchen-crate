@@ -44,7 +44,8 @@ eigenen Behälter, Kühlschrank.
 
 **Alternative, kalte Führung:** Teig am Vorabend kneten, abgedeckt in den
 Kühlschrank, morgens formen. Zweite Gehzeit dann 60-90 min, weil der Teig kalt
-ist. Spart die 1,5 h Warten am Morgen; beim Probebacken ähnlich gemacht.
+ist. Spart die 1,5 h Warten am Morgen. Nicht bei Raumtemperatur über Nacht -
+beim Probebacken so gemacht, der Teig war danach vermutlich übergangen.
 
 **Vor Ort:** Frosting kalt streichen. Vanillesauce und Karamell kurz in der
 Mikrowelle anwärmen, sonst zimmerwarm - Karamell ist zimmerwarm gießbar, aus

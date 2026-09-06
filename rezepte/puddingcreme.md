@@ -25,4 +25,4 @@ bildet sich Haut).
 1 Tortenfüllung (26 cm) oder ca. 4 Dessertportionen. Für die Frosting-Kombi
 reicht die halbe Menge.
 
-Verwendet in: [`zimtschnecken-mit-puddingcreme-frischkaese-frosting.md`](zimtschnecken-mit-puddingcreme-frischkaese-frosting.md) (ungetestet), [`puddingschnecken.md`](puddingschnecken.md) (35 g-Version, ungetestet)
+Verwendet in: [`zimtschnecken-mit-puddingcreme-frischkaese-frosting.md`](zimtschnecken-mit-puddingcreme-frischkaese-frosting.md), [`puddingschnecken.md`](puddingschnecken.md) (35 g-Version, ungetestet)

@@ -1,12 +1,12 @@
-# Zimtschnecken (mit Puddingcreme-Frischkäse-Frosting) - UNGETESTET
+# Zimtschnecken (mit Puddingcreme-Frischkäse-Frosting)
 
 **Portionen:** 12 Schnecken bei Faktor 1 (siehe "Skalierung" unten)
 **Kategorie:** Backen
 **Enthält keine Nüsse.**
 
-Bisher nur durchgerechnet, nicht gebacken: je nach Puddingcreme-Menge
-22-34 % Zucker im Topping statt 41 % im normalen Frosting. Ob Textur und
-Geschmack in der Praxis passen, ist offen.
+Einmal gebacken (Probebacken mit Faktor 0,5, siehe Notizen): Puddingcreme und
+Frosting haben funktioniert. Rechnerisch 22-34 % Zucker im Topping statt 41 %
+im normalen Frosting.
 
 ## Bestandteile
 
@@ -14,8 +14,8 @@ Geschmack in der Praxis passen, ist offen.
 - Füllung: [`fuellung-zimt.md`](fuellung-zimt.md) - Variante **normal**
 - Topping: [`sauce-frischkaese-frosting.md`](sauce-frischkaese-frosting.md), angepasst:
   Puderzucker **100-120 g statt 150 g**, kein Vanillezucker - stattdessen
-  **80-160 g kalte Puddingcreme, Ziel 120 g** untergerührt (1 EL ≈ 20 g; bringt
-  eigenen Zucker mit, 60 g auf 500 ml Milch)
+  **160 g kalte Puddingcreme** untergerührt (1 EL ≈ 20 g; beim Probebacken 80 g
+  bei Faktor 0,5; bringt eigenen Zucker mit, 60 g auf 500 ml Milch)
 - Dafür: [`puddingcreme.md`](puddingcreme.md) in **halber Menge**
   (250 ml Milch, 15 g Stärke, 30 g Zucker, 1 Eigelb) - die 30 g-Stärke-Version,
   nicht die festeren 35 g/50 g-Varianten
@@ -29,8 +29,8 @@ Geschmack in der Praxis passen, ist offen.
 3. Frosting nach [`sauce-frischkaese-frosting.md`](sauce-frischkaese-frosting.md),
    aber mit 100-120 g Puderzucker und ohne Vanillezucker.
 4. Kalte Puddingcreme in Portionen unters Frosting rühren, niedrigste Stufe
-   oder von Hand: erst 80 g, Konsistenz und Süße prüfen, dann bis 120 g. Über
-   160 g nicht, sonst zu flüssig zum Streichen. Rest der Puddingcreme als Dessert.
+   oder von Hand, nach jeder Portion Konsistenz prüfen, bis 160 g. Mehr nicht,
+   sonst zu flüssig zum Streichen. Rest der Puddingcreme als Dessert.
 5. Auf die ausgekühlten oder höchstens lauwarmen Schnecken streichen.
 
 ## Skalierung

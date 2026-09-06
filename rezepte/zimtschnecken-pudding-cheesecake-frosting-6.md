@@ -1,4 +1,4 @@
-# Zimtschnecken mit Pudding-Cheesecake-Frosting, 6 Stück (Probebacken, UNGETESTET)
+# Zimtschnecken mit Pudding-Cheesecake-Frosting, 6 Stück (Probebacken, einmal gebacken)
 
 **Portionen:** 6 Schnecken
 **Zeit:** ca. 2,5 h, davon 1,5 h Warten (Pudding kühlt, Teig geht)
@@ -61,7 +61,7 @@ Alles zusammengerechnet über Puddingcreme, Teig, Füllung und Frosting.
 - 75 g Frischkäse, Doppelrahmstufe, kalt
 - 30 g Butter, weich
 - 50-60 g Puderzucker (weniger als üblich, die Puddingcreme süßt mit)
-- 40-80 g kalte Puddingcreme von oben, Ziel 60 g (ca. 3 EL, 1 EL ≈ 20 g)
+- 80 g kalte Puddingcreme von oben (ca. 4 EL, 1 EL ≈ 20 g) - so beim ersten Versuch, hat funktioniert
 
 **Außerdem:** etwas Butter für die Form. Insgesamt 2 Eier (eines für den Teig,
 vom anderen das Eigelb).
@@ -100,25 +100,23 @@ vom anderen das Eigelb).
 
 17. Weiche Butter und Puderzucker mit dem Handrührgerät 2-3 Minuten hell und cremig schlagen.
 18. Kalten Frischkäse dazu, nur kurz unterrühren, etwa 10-20 Sekunden. Länger gerührt wird Frischkäse flüssig.
-19. Kalte Puddingcreme in Portionen unterrühren: erst 40 g, kurz rühren, Konsistenz und Süße prüfen, dann bis 60 g. Ziel: streichfähig, nicht fließend. Über 80 g nicht, sonst läuft es von den Schnecken.
+19. Kalte Puddingcreme in Portionen unterrühren, nach jeder Portion kurz rühren und Konsistenz prüfen, bis 80 g. Ziel: streichfähig, nicht fließend. Mehr nicht, sonst läuft es von den Schnecken.
 20. Frosting auf die Schnecken streichen. Rest der Puddingcreme als Dessert.
 
-## Worauf achten (weil ungetestet)
+## Worauf achten
 
 - Wenn das Frosting nach dem Puddingcreme-Zugeben zu weich wird: 15 Minuten kühlen, dann streichen.
 - Wenn die Schnecken innen noch teigig wirken: 3-5 Minuten länger backen, oben mit Alufolie abdecken, falls sie zu dunkel werden.
-- Notieren, wie viel Gramm Puddingcreme es waren und wie süß es war - das ist die eine Zahl, die der Kombi noch fehlt.
 
 ## Erster Versuch (Fotos und Befund)
 
 Aus dem Teig wurden drei Zimtschnecken und eine Schokoschnecke (Füllung nur
 Schokotröpfchen, sonst nichts). Ablauf abweichend vom Rezept: erste Gehzeit
-etwa 9 h über Nacht, dann ausrollen, füllen, rollen, schneiden, zweite Gehzeit
+etwa 9 h über Nacht bei Raumtemperatur (nicht im Kühlschrank), dann ausrollen, füllen, rollen, schneiden, zweite Gehzeit
 etwa 1,5 h, gebacken auf Backpapier mit Abstand. Puddingcreme und Frosting
 haben funktioniert.
 
-Noch offen: über Nacht im Kühlschrank oder bei Raumtemperatur; Gramm
-Schokotröpfchen; Gramm Puddingcreme im Frosting.
+Puddingcreme im Frosting: 80 g. Schokotröpfchen: ca. 25 g auf einer Schnecke.
 
 **Schokoschnecke:** Teig stimmt, Boden zu dunkel - Fotos und Befund in
 [`schokoschnecken.md`](schokoschnecken.md).
@@ -145,9 +143,13 @@ ist nach unten ausgelaufen und auf dem Papier karamellisiert.
 2. Naht nicht festgedrückt oder nach außen gesetzt: die Außenlage springt beim
    Aufgehen auf.
 3. 1,5 h zweites Gehen bei Raumtemperatur: die Butter-Zucker-Paste wird weich
-   bis flüssig, der Teig verliert Spannung.
+   bis flüssig, der Teig verliert Spannung. Dazu 9 h erste Gehzeit bei
+   Raumtemperatur: mit dem halben Päckchen Hefe ist der Teig da vermutlich
+   übergangen - er geht dann noch auf, hat aber weniger Halt.
 
 **Beim nächsten Versuch, eine Änderung nach der anderen:**
+- Über Nacht nur im Kühlschrank (kalte Führung), sonst 45-60 min warm wie im
+  Rezept.
 - Springform oder Auflaufform mit Backpapier, Schnecken eng aneinander. Der
   Sirup bleibt dann unter den Schnecken und zieht ein - das ist der gewollte
   klebrige Boden.
