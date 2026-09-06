@@ -33,6 +33,6 @@ wenn alle drei zur Auswahl stehen. Ab Faktor 2 zwei Formen oder ein tiefes Blech
 
 - Fehlt eine Zutat? Siehe [`../substitution.md`](../substitution.md)
 - Verwandt: [`puddingschnecken.md`](puddingschnecken.md), [`schokoschnecken.md`](schokoschnecken.md) - gleicher Teig, andere Füllung
-- Ungetestete Variante mit Puddingcreme-Frischkäse-Frosting: [`zimtschnecken-mit-puddingcreme-frischkaese-frosting.md`](zimtschnecken-mit-puddingcreme-frischkaese-frosting.md)
+- Variante mit Puddingcreme-Frischkäse-Frosting (einmal gebacken): [`zimtschnecken-mit-puddingcreme-frischkaese-frosting.md`](zimtschnecken-mit-puddingcreme-frischkaese-frosting.md)
 
 Verwendet in: [`zimtschnecken-fuer-die-arbeit.md`](zimtschnecken-fuer-die-arbeit.md)
