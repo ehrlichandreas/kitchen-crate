@@ -109,6 +109,59 @@ vom anderen das Eigelb).
 - Wenn die Schnecken innen noch teigig wirken: 3-5 Minuten länger backen, oben mit Alufolie abdecken, falls sie zu dunkel werden.
 - Notieren, wie viel Gramm Puddingcreme es waren und wie süß es war - das ist die eine Zahl, die der Kombi noch fehlt.
 
+## Erster Versuch (Fotos und Befund)
+
+Aus dem Teig wurden drei Zimtschnecken und eine Schokoschnecke (Füllung nur
+Schokotröpfchen, sonst nichts). Ablauf abweichend vom Rezept: erste Gehzeit
+etwa 9 h über Nacht, dann ausrollen, füllen, rollen, schneiden, zweite Gehzeit
+etwa 1,5 h, gebacken auf Backpapier mit Abstand. Puddingcreme und Frosting
+haben funktioniert.
+
+Noch offen: über Nacht im Kühlschrank oder bei Raumtemperatur; Gramm
+Schokotröpfchen; Gramm Puddingcreme im Frosting.
+
+**Schokoschnecke** - Teig stimmt: kräftig aufgegangen, gleichmäßig goldbraun,
+Spirale sichtbar, feine weiche Krume. Boden zu dunkel: ausgelaufene Butter und
+geschmolzene Tröpfchen sind am Formboden karamellisiert.
+
+![Schokoschnecke, oben](bilder/zimtschnecken-pudding-cheesecake-frosting-6/schoko-oben-1.jpg)
+![Schokoschnecke, oben, zweite Ansicht](bilder/zimtschnecken-pudding-cheesecake-frosting-6/schoko-oben-2.jpg)
+![Schokoschnecke, unten - zu dunkel](bilder/zimtschnecken-pudding-cheesecake-frosting-6/schoko-unten.jpg)
+
+**Zimtschnecken, oben** - die Außenlagen haben sich an den Nähten gelöst, die
+Zimtschicht liegt frei, die Schnecken sind in die Breite statt in die Höhe
+gegangen. Krume an den Bruchstellen weich und luftig, der Teig ist nicht das
+Problem.
+
+![Zimtschnecke 1, oben - Naht offen](bilder/zimtschnecken-pudding-cheesecake-frosting-6/zimt-oben-1.jpg)
+![Zimtschnecke 2, oben](bilder/zimtschnecken-pudding-cheesecake-frosting-6/zimt-oben-2.jpg)
+![Zimtschnecke 3, oben - Außenlage abgerollt](bilder/zimtschnecken-pudding-cheesecake-frosting-6/zimt-oben-3.jpg)
+
+**Zimtschnecken, unten** - blass und sirupgetränkt statt gebräunt, Butter-Zucker
+ist nach unten ausgelaufen und auf dem Papier karamellisiert.
+
+![Zimtschnecke 1, unten - sirupgetränkt](bilder/zimtschnecken-pudding-cheesecake-frosting-6/zimt-unten-1.jpg)
+![Zimtschnecke 2, unten - blass](bilder/zimtschnecken-pudding-cheesecake-frosting-6/zimt-unten-2.jpg)
+![Zimtschnecke 3, unten](bilder/zimtschnecken-pudding-cheesecake-frosting-6/zimt-unten-3.jpg)
+
+**Ursachen** - Technik, nicht Mengen:
+1. Auf dem Blech mit Abstand statt eng in einer Form: ohne Wand und Nachbarn
+   läuft die Füllung unten raus, und nichts hält die Spirale zusammen.
+2. Naht nicht festgedrückt oder nach außen gesetzt: die Außenlage springt beim
+   Aufgehen auf.
+3. 1,5 h zweites Gehen bei Raumtemperatur: die Butter-Zucker-Paste wird weich
+   bis flüssig, der Teig verliert Spannung.
+
+**Beim nächsten Versuch, eine Änderung nach der anderen:**
+- Springform oder Auflaufform mit Backpapier, Schnecken eng aneinander. Der
+  Sirup bleibt dann unter den Schnecken und zieht ein - das ist der gewollte
+  klebrige Boden.
+- Naht mit dem Daumen festdrücken, Schnecke mit der Naht zum Nachbarn setzen.
+- Geformte Schnecken vor dem Backen 10-15 Minuten in den Kühlschrank, damit die
+  Füllung fest ist, wenn der Teig im Ofen setzt.
+- Erst wenn das nicht reicht: Füllung mit 80 g statt 100 g Butter, oder 1 TL
+  Speisestärke in die Paste.
+
 ## Notizen
 
 - Fehlt eine Zutat? Siehe [`../substitution.md`](../substitution.md)

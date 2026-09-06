@@ -2,6 +2,7 @@
 """Prüft die Sammlung. Exit 1, wenn etwas nicht stimmt.
 
 - Jeder Verweis auf eine .md-Datei ist ein echter Link, und das Ziel existiert.
+- Jedes eingebundene Bild existiert.
 - Jedes Rezept nennt seine Menge (Portionen / Reicht für / Ergibt).
 - Jedes Rezept steht in der README-Übersicht.
 - "Verwendet in:" stimmt in beide Richtungen.
@@ -41,6 +42,9 @@ def check_links(path, txt):
     for t in re.findall(r"\]\(([^)]+\.md)\)", txt):
         if not (path.parent / t).exists():
             errors.append(f"{path.relative_to(ROOT)}: Linkziel fehlt: {t}")
+    for t in re.findall(r"!\[[^\]]*\]\(([^)]+)\)", txt):
+        if not (path.parent / t).exists():
+            errors.append(f"{path.relative_to(ROOT)}: Bild fehlt: {t}")
 
 
 for p in sorted(RZ.glob("*.md")):

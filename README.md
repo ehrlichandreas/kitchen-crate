@@ -42,6 +42,7 @@ bauen, ohne Rezepte zu duplizieren. Mengen skalieren über einen Faktor
   Sauce) und "Kombi"-Dateien, die andere Dateien im selben Ordner
   referenzieren statt sie zu duplizieren. [`_vorlage.md`](rezepte/_vorlage.md) kopieren zum Anlegen.
 - [`substitution.md`](substitution.md) - Zutat X fehlt? Was ersetzt sie, in welchem Verhältnis
+- `rezepte/bilder/<rezept>/` - Fotos zu einem Rezept, auf 1200 px verkleinert, ohne Metadaten
 
 ## Rezept anlegen
 
@@ -60,7 +61,6 @@ Regeln:
 
 ## Wachstumspfad (nicht jetzt bauen, nur damit klar ist wohin)
 
-- Bilder: `rezepte/bilder/<rezept-name>/` sobald das erste Rezept eins braucht
 - Web/App: liest später einfach die Markdown-Dateien hier, kein Datenmodell-Wechsel nötig
 
 ## Lizenz
