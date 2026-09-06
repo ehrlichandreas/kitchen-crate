@@ -12,7 +12,8 @@ Kalt/lauwarm, reist gut - eigener Behälter zum Transport.
 ## Zubereitung
 
 Butter, Puderzucker, Vanillezucker cremig aufschlagen. Kalten Frischkäse
-kurz unterrühren (nicht zu lange, sonst wird er flüssig). In eigenen
+kurz unterrühren, niedrigste Stufe oder von Hand, 10-20 Sekunden (länger, und
+er wird flüssig). In eigenen
 Behälter füllen, gekühlt transportieren.
 
 ## Reicht für
