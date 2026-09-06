@@ -61,7 +61,7 @@ Alles zusammengerechnet über Puddingcreme, Teig, Füllung und Frosting.
 - 75 g Frischkäse, Doppelrahmstufe, kalt
 - 30 g Butter, weich
 - 50-60 g Puderzucker (weniger als üblich, die Puddingcreme süßt mit)
-- 2-4 EL kalte Puddingcreme von oben
+- 40-80 g kalte Puddingcreme von oben, Ziel 60 g (ca. 3 EL, 1 EL ≈ 20 g)
 
 **Außerdem:** etwas Butter für die Form. Insgesamt 2 Eier (eines für den Teig,
 vom anderen das Eigelb).
@@ -100,14 +100,14 @@ vom anderen das Eigelb).
 
 17. Weiche Butter und Puderzucker mit dem Handrührgerät 2-3 Minuten hell und cremig schlagen.
 18. Kalten Frischkäse dazu, nur kurz unterrühren, etwa 10-20 Sekunden. Länger gerührt wird Frischkäse flüssig.
-19. Kalte Puddingcreme esslöffelweise unterrühren: einen Löffel, kurz rühren, Konsistenz und Süße prüfen. Ziel: streichfähig, nicht fließend. Meist sind 2-4 EL richtig. Zu viel, und es läuft von den Schnecken.
+19. Kalte Puddingcreme in Portionen unterrühren: erst 40 g, kurz rühren, Konsistenz und Süße prüfen, dann bis 60 g. Ziel: streichfähig, nicht fließend. Über 80 g nicht, sonst läuft es von den Schnecken.
 20. Frosting auf die Schnecken streichen. Rest der Puddingcreme als Dessert.
 
 ## Worauf achten (weil ungetestet)
 
 - Wenn das Frosting nach dem Puddingcreme-Zugeben zu weich wird: 15 Minuten kühlen, dann streichen.
 - Wenn die Schnecken innen noch teigig wirken: 3-5 Minuten länger backen, oben mit Alufolie abdecken, falls sie zu dunkel werden.
-- Notieren, wie viele Löffel Puddingcreme es waren und wie süß es war - das ist die eine Zahl, die der Kombi noch fehlt.
+- Notieren, wie viel Gramm Puddingcreme es waren und wie süß es war - das ist die eine Zahl, die der Kombi noch fehlt.
 
 ## Notizen
 
