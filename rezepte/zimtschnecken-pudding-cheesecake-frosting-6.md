@@ -151,26 +151,26 @@ ist nach unten ausgelaufen und auf dem Papier karamellisiert.
 3. 1,5 h zweites Gehen bei Raumtemperatur: die Butter-Zucker-Paste wird weich
    bis flüssig und läuft eher aus.
 
-**Beim nächsten Versuch, eine Änderung nach der anderen:**
+**Beim nächsten Versuch** - die Korrekturen alle zusammen, das Experiment
+am Ende nur, wenn es dann noch ausläuft:
 - Rollen und schneiden, nicht nachformen: das Rechteck von der kurzen Seite her
   straff zu einer 25 cm langen Rolle aufrollen (Startkante umschlagen und
-  andrücken, dann mit beiden Händen eng weiterrollen), Naht festdrücken, dann
-  **quer** in 4 cm dicke Scheiben schneiden. Die Spirale ist die Schnittfläche.
-  Scheiben mit der Schnittfläche nach oben in die Form; ein schiefes Stück so
-  lassen - nie strecken oder neu wickeln.
-- Springform oder Auflaufform mit Backpapier, Schnecken eng aneinander. Der
-  Sirup bleibt dann unter den Schnecken und zieht ein - das ist der gewollte
-  klebrige Boden.
-- Naht mit dem Daumen festdrücken, Schnecke mit der Naht zum Nachbarn setzen.
+  andrücken, dann mit beiden Händen eng weiterrollen), Naht mit dem Daumen
+  festdrücken, dann **quer** in 4 cm dicke Scheiben schneiden. Die Spirale ist
+  die Schnittfläche. Ein schiefes Stück so lassen - nie strecken oder neu wickeln.
+- Springform oder Auflaufform mit Backpapier, Scheiben mit der Schnittfläche
+  nach oben, eng aneinander, Naht zum Nachbarn. Der Sirup bleibt dann unter den
+  Schnecken und zieht ein - das ist der gewollte klebrige Boden.
 - Geformte Schnecken vor dem Backen 10-15 Minuten in den Kühlschrank, damit die
   Füllung fest ist, wenn der Teig im Ofen setzt.
-- Erst wenn das nicht reicht: Füllung mit 80 g statt 100 g Butter, oder 1 TL
-  Speisestärke in die Paste.
 - Backpulver weglassen: die Hefe hat sichtbar gearbeitet, Backpulver macht die
   Krume kuchiger und kann bitter durchkommen. Erst ohne ist das Grundrezept
   bestätigt.
-- Über Nacht besser im Kühlschrank; 9 h warm ging hier, weil danach gefaltet
-  und geknetet wurde - der Kühlschrank ist kontrollierbarer.
+- Über Nacht nur im Kühlschrank; 9 h warm ging hier, weil danach gefaltet und
+  geknetet wurde - der Kühlschrank ist kontrollierbarer. Oder 45-60 min warm
+  wie im Rezept.
+- Experiment, erst wenn die Füllung trotzdem ausläuft: 80 g statt 100 g Butter
+  in der Füllung, oder 1 TL Speisestärke in die Paste.
 
 ## Notizen
 
