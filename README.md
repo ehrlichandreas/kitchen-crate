@@ -13,6 +13,7 @@ Laktosefrei ist nicht milchfrei.
 - [Zimtschnecken laktosefrei](rezepte/zimtschnecken-laktosefrei.md) - laktosefreier Teig, ohne Sauce (G, E, M laktosefrei)
 - [Zimtschnecken mit Puddingcreme-Frischkäse-Frosting](rezepte/zimtschnecken-mit-puddingcreme-frischkaese-frosting.md) - ungetestet (G, E, M)
 - [Zimtschnecken mit Pudding-Cheesecake-Frosting, 6 Stück](rezepte/zimtschnecken-pudding-cheesecake-frosting-6.md) - komplett ausgeschrieben zum Probebacken, ungetestet (G, E, M)
+- [Schokoschnecken](rezepte/schokoschnecken.md) - Hefeteig mit Schokotröpfchen statt Zimt, einmal gebacken (G, E, M)
 - [Puddingschnecken](rezepte/puddingschnecken.md) - Hefeteig mit Puddingcreme als Füllung, ungetestet (G, E, M)
 - [Chocolate-Chip-Macadamia-Cookies](rezepte/chocolate-chip-macadamia-cookies.md) - ca. 50 Stück (G, E, M, **N**)
 - [Chocolate-Chip-Cookies nussfrei](rezepte/chocolate-chip-cookies-nussfrei.md) - Basis ohne Macadamia, ungetestet (G, E, M)
@@ -21,6 +22,7 @@ Laktosefrei ist nicht milchfrei.
 
 - [Hefeteig-Grundrezept](rezepte/hefeteig-grundrezept.md) - 12 Stück, normal oder laktosefrei, mit Skalierungstabelle (G, E, M)
 - [Zimt-Füllung](rezepte/fuellung-zimt.md) (M)
+- [Schokotröpfchen-Füllung](rezepte/fuellung-schokotropfen.md) (M)
 - [Vanillesauce](rezepte/sauce-vanille.md) (M, E)
 - [Frischkäse-Frosting](rezepte/sauce-frischkaese-frosting.md) (M)
 - [Karamellsauce](rezepte/sauce-karamell.md) (M)

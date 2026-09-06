@@ -120,13 +120,8 @@ haben funktioniert.
 Noch offen: über Nacht im Kühlschrank oder bei Raumtemperatur; Gramm
 Schokotröpfchen; Gramm Puddingcreme im Frosting.
 
-**Schokoschnecke** - Teig stimmt: kräftig aufgegangen, gleichmäßig goldbraun,
-Spirale sichtbar, feine weiche Krume. Boden zu dunkel: ausgelaufene Butter und
-geschmolzene Tröpfchen sind am Formboden karamellisiert.
-
-![Schokoschnecke, oben](bilder/zimtschnecken-pudding-cheesecake-frosting-6/schoko-oben-1.jpg)
-![Schokoschnecke, oben, zweite Ansicht](bilder/zimtschnecken-pudding-cheesecake-frosting-6/schoko-oben-2.jpg)
-![Schokoschnecke, unten - zu dunkel](bilder/zimtschnecken-pudding-cheesecake-frosting-6/schoko-unten.jpg)
+**Schokoschnecke:** Teig stimmt, Boden zu dunkel - Fotos und Befund in
+[`schokoschnecken.md`](schokoschnecken.md).
 
 **Zimtschnecken, oben** - die Außenlagen haben sich an den Nähten gelöst, die
 Zimtschicht liegt frei, die Schnecken sind in die Breite statt in die Höhe

@@ -21,4 +21,4 @@ Behälter füllen, gekühlt transportieren.
 ca. 12 Schnecken (1× Hefeteig-Grundrezept) bei mittlerer Menge pro Stück -
 für mehr mit demselben Faktor wie beim Teig multiplizieren.
 
-Verwendet in: [`zimtschnecken.md`](zimtschnecken.md), [`zimtschnecken-mit-puddingcreme-frischkaese-frosting.md`](zimtschnecken-mit-puddingcreme-frischkaese-frosting.md) (Variante)
+Verwendet in: [`zimtschnecken.md`](zimtschnecken.md), [`zimtschnecken-mit-puddingcreme-frischkaese-frosting.md`](zimtschnecken-mit-puddingcreme-frischkaese-frosting.md) (Variante), [`schokoschnecken.md`](schokoschnecken.md) (optional)
