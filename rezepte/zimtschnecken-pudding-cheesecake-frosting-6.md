@@ -30,7 +30,7 @@ Alles zusammengerechnet über Puddingcreme, Teig, Füllung und Frosting.
 | Trockenhefe | 3,5 g | ein halbes Päckchen |
 | Speisestärke | 15 g |  |
 | Vanillezucker (Päckchen) | 0,5 | ca. 4 g |
-| Zimt (TL) | 1,25 |  |
+| Zimt (TL) | 1,25 | ca. 3 g |
 | Salz | 1,5 g | ca. 1/4 TL, plus 1 Prise für die Puddingcreme |
 
 ## Zutaten
@@ -55,7 +55,7 @@ Alles zusammengerechnet über Puddingcreme, Teig, Füllung und Frosting.
 **Zimt-Füllung**
 - 50 g Butter, sehr weich
 - 50 g brauner Zucker
-- 1 1/4 TL gemahlener Zimt
+- 1 1/4 TL gemahlener Zimt (ca. 3 g)
 
 **Frosting**
 - 75 g Frischkäse, Doppelrahmstufe, kalt

@@ -8,7 +8,7 @@
 
 - 100 g sehr weiche Butter (Variante)
 - 100 g brauner Zucker
-- 2-3 TL gemahlener Zimt
+- 2-3 TL gemahlener Zimt (5-7 g)
 
 ## Anwendung
 
@@ -23,6 +23,6 @@ Faktor wie im Grundrezept (Stückzahl ÷ 12).
 |---|---|
 | Butter | 100 g × Faktor |
 | Brauner Zucker | 100 g × Faktor |
-| Zimt | 2,5 TL × Faktor |
+| Zimt | 6 g (2,5 TL) × Faktor |
 
 Verwendet in: [`zimtschnecken.md`](zimtschnecken.md), [`zimtschnecken-laktosefrei.md`](zimtschnecken-laktosefrei.md), [`zimtschnecken-mit-puddingcreme-frischkaese-frosting.md`](zimtschnecken-mit-puddingcreme-frischkaese-frosting.md)

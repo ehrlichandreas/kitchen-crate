@@ -64,7 +64,7 @@ weniger. "Zucker" ist weißer Zucker über Teig, Vanillesauce und Karamell hinwe
 | Trockenhefe | 19 g | 3 Päckchen à 7 g |
 | Salz | 8 g | Vorrat |
 | Brauner Zucker | 275 g | 1 × 500 g |
-| Zimt (TL) | ca. 7 | 1 Dose reicht |
+| Zimt (TL) | ca. 7 (ca. 15 g) | 1 Dose reicht |
 | laktosefrei: Milch (ml) | 125 ml | kleinste Packung |
 | laktosefrei: Butter | 90 g | 1 Päckchen |
 | Vanillezucker (Pck.) | 2,5 | aufrunden auf 3 |
