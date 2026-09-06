@@ -29,13 +29,13 @@ kalt und gleichmäßig aufgestrichen, Rand frei lassen.
 2. Teig nach [`hefeteig-grundrezept.md`](hefeteig-grundrezept.md) Schritt 1-2
    ansetzen und gehen lassen.
 3. Ausrollen wie in Schritt 3, aber statt der Zimt-Füllung die kalte
-   Puddingcreme gleichmäßig aufstreichen (ca. 0,5 cm), an der langen Seite 2 cm
-   Rand frei lassen - dort klebt die Rolle zu. Rosinen darüber streuen.
-4. Von der langen Seite eng aufrollen, in 3-4 cm dicke Scheiben schneiden
-   (Schritt 4). Scharfes Messer oder Zahnseide, damit der Pudding nicht
-   herausgedrückt wird.
-5. Schritt 5-6: in die Form, 20 min gehen, bei 180 °C Ober-/Unterhitze 20-25 min
-   goldbraun backen.
+   Puddingcreme gleichmäßig aufstreichen (ca. 0,5 cm), an der gegenüberliegenden
+   langen Seite 2 cm Rand frei lassen - dort klebt die Rolle zu. Rosinen darüber streuen.
+4. Von der langen Seite eng aufrollen, Naht festdrücken, quer in 3-4 cm dicke
+   Scheiben schneiden (Schritt 4) - die Spirale ist die Schnittfläche. Scharfes
+   Messer oder Zahnseide, damit der Pudding nicht herausgedrückt wird.
+5. Schritt 5-6: eng in die Form mit Backpapier, 20 min gehen, 10-15 min in den
+   Kühlschrank, bei 180 °C Ober-/Unterhitze 20-25 min goldbraun backen.
 6. Auskühlen lassen, erst dann glasieren. Frisch am besten, gekühlt bis zum
    nächsten Tag.
 

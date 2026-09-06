@@ -5,9 +5,9 @@
 **Enthält keine Nüsse.**
 
 Einmal gebacken (Probebacken mit Faktor 0,5, siehe Notizen): Puddingcreme und
-Frosting haben funktioniert; der Teig hatte dabei zusätzlich Backpulver, das
-Grundrezept ohne ist noch nicht bestätigt. Rechnerisch 22-34 % Zucker im Topping statt 41 %
-im normalen Frosting.
+Frosting haben funktioniert. Der Teig hatte dabei zusätzlich Backpulver, das
+Grundrezept ohne ist noch nicht bestätigt. Rechnerisch 22-34 % Zucker im
+Topping statt 41 % im normalen Frosting.
 
 ## Bestandteile
 

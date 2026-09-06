@@ -82,10 +82,8 @@ weniger. "Zucker" ist weißer Zucker über Teig, Vanillesauce und Karamell hinwe
 ## Transport
 
 - Normale Schnecken + laktosefreie Extra-Charge getrennt/erkennbar transportieren.
-- Die drei Saucen getrennt in eigenen Behältern.
-- Vor Ort: jeder wählt/kombiniert selbst (z.B. Frosting + Karamell obendrüber).
-  Bei Kombination von zwei Saucen jeweils weniger nehmen als bei nur einer -
-  Teig und Füllung sind schon gezuckert, zwei volle Saucen übereinander wird schnell zu süß.
+- Die drei Saucen getrennt in eigenen Behältern. Servieren: siehe
+  [`zimtschnecken.md`](zimtschnecken.md), Abschnitt "Servieren".
 
 ## Notizen
 
