@@ -91,7 +91,7 @@ vom anderen das Eigelb).
 10. Teig auf leicht bemehlter Fläche zu einem Rechteck von ca. 25 × 40 cm ausrollen.
 11. Zimt-Paste gleichmäßig auf dem Teig verstreichen, an einer der kurzen Seiten 2 cm Rand frei lassen.
 12. Von der gegenüberliegenden kurzen Seite (25 cm) her eng aufrollen, die Naht am freien Rand festdrücken. Die Rolle ist ca. 25 cm lang.
-13. Mit einem scharfen Messer oder einem Stück Zahnseide in 6 Scheiben à ca. 4 cm schneiden.
+13. Mit einem scharfen Messer oder einem Stück Zahnseide quer in 6 Scheiben à ca. 4 cm schneiden. Die Spirale ist die Schnittfläche - Scheiben nicht strecken oder neu wickeln.
 14. Scheiben mit der Schnittfläche nach oben in die Form setzen, mit etwas Abstand. Abdecken, 20 Minuten ruhen lassen.
 15. Währenddessen Backofen auf 180 °C Ober-/Unterhitze vorheizen.
 16. 20-25 Minuten backen, bis die Oberfläche goldbraun ist. Aus dem Ofen nehmen, in der Form 10 Minuten stehen lassen, dann herausnehmen und auf einem Gitter abkühlen lassen. Das Frosting kommt erst auf ausgekühlte oder höchstens lauwarme Schnecken.
@@ -113,8 +113,8 @@ vom anderen das Eigelb).
 Aus dem Teig wurden drei Zimtschnecken und eine Schokoschnecke (Füllung nur
 Schokotröpfchen, sonst nichts). Ablauf abweichend vom Rezept: erste Gehzeit
 etwa 9 h über Nacht bei Raumtemperatur (nicht im Kühlschrank), danach mehrmals
-gefaltet und geknetet, dann ausrollen, füllen, rollen (falsch gerollt, siehe
-unten), schneiden, zweite Gehzeit etwa 1,5 h, gebacken auf Backpapier mit
+gefaltet und geknetet, dann ausrollen, füllen, rollen und schneiden (beides falsch,
+siehe unten), zweite Gehzeit etwa 1,5 h, gebacken auf Backpapier mit
 Abstand. Zusätzlich 1/2 Päckchen Backpulver (ca. 8 g) in den trockenen Zutaten -
 steht nicht im Rezept, war "zur Sicherheit" drin. Puddingcreme und Frosting
 haben funktioniert.
@@ -141,17 +141,23 @@ ist nach unten ausgelaufen und auf dem Papier karamellisiert.
 ![Zimtschnecke 3, unten](bilder/zimtschnecken-pudding-cheesecake-frosting-6/zimt-unten-3.jpg)
 
 **Ursachen** - Technik, nicht Teig:
-1. Falsch gerollt (Befund des Bäckers): die Spirale hatte von Anfang an keinen
-   Halt, deshalb haben sich die Außenlagen gelöst. Kein Teigproblem - der Teig
-   war nach den 9 h gefaltet und geknetet und damit wieder stabil.
+1. Falsch gerollt und geschnitten, dann die Stücke gestreckt und von Hand zu
+   Schnecken gewickelt (Befund des Bäckers). So entsteht eine aufgewickelte
+   Teigwurst statt einer Schnittscheibe: die Lagen liegen lose aneinander, die
+   Füllung liegt außen an den Windungen, beim Aufgehen löst sich alles. Kein
+   Teigproblem - der Teig war nach den 9 h gefaltet und geknetet und stabil.
 2. Auf dem Blech mit Abstand statt eng in einer Form: ohne Wand und Nachbarn
    läuft die Füllung unten raus, und nichts stützt die Schnecken.
 3. 1,5 h zweites Gehen bei Raumtemperatur: die Butter-Zucker-Paste wird weich
    bis flüssig und läuft eher aus.
 
 **Beim nächsten Versuch, eine Änderung nach der anderen:**
-- Straff rollen: die Startkante umschlagen und andrücken, dann mit beiden Händen
-  eng weiterrollen, Naht festdrücken.
+- Rollen und schneiden, nicht nachformen: das Rechteck von der kurzen Seite her
+  straff zu einer 25 cm langen Rolle aufrollen (Startkante umschlagen und
+  andrücken, dann mit beiden Händen eng weiterrollen), Naht festdrücken, dann
+  **quer** in 4 cm dicke Scheiben schneiden. Die Spirale ist die Schnittfläche.
+  Scheiben mit der Schnittfläche nach oben in die Form; ein schiefes Stück so
+  lassen - nie strecken oder neu wickeln.
 - Springform oder Auflaufform mit Backpapier, Schnecken eng aneinander. Der
   Sirup bleibt dann unter den Schnecken und zieht ein - das ist der gewollte
   klebrige Boden.
