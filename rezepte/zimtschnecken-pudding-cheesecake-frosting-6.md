@@ -78,7 +78,7 @@ vom anderen das Eigelb).
 **B. Hefeteig**
 
 5. Mehl, Trockenhefe, Zucker und Salz in einer Schüssel mischen.
-6. Lauwarme Milch (handwarm, nicht heiß, sonst stirbt die Hefe), das halbe Ei und die weiche Butter dazu. Mit Knethaken oder von Hand 5-8 Minuten zu einem glatten, geschmeidigen Teig kneten. Er darf leicht kleben, aber nicht schmieren.
+6. Lauwarme Milch (handwarm, nicht heiß, sonst stirbt die Hefe), das halbe Ei und die weiche Butter dazu. Mit Knethaken 8-10 Minuten (von Hand 10-12) zu einem glatten, geschmeidigen Teig kneten. Stopp-Kriterium ist der Fenstertest, nicht die Uhr: ein Stück Teig lässt sich so dünn ausziehen, dass Licht durchscheint, ohne zu reißen. Er darf leicht kleben, aber nicht schmieren; wird er warm und weich, war es zu lang.
 7. Schüssel abdecken, an einem warmen Ort 45-60 Minuten gehen lassen, bis sich das Volumen etwa verdoppelt hat.
 
 **C. Füllung (während der Teig geht)**
@@ -111,8 +111,8 @@ vom anderen das Eigelb).
 ## Erster Versuch (Fotos und Befund)
 
 Aus dem Teig wurden drei Zimtschnecken und eine Schokoschnecke (Füllung nur
-Schokotröpfchen, sonst nichts). Ablauf abweichend vom Rezept: erste Gehzeit
-etwa 9 h über Nacht bei Raumtemperatur (nicht im Kühlschrank), danach mehrmals
+Schokotröpfchen, sonst nichts). Ablauf abweichend vom Rezept: Maschine hat
+etwa 20-25 min geknetet (Rezept: 5-8 min), erste Gehzeit etwa 9 h über Nacht bei Raumtemperatur (nicht im Kühlschrank), danach mehrmals
 gefaltet und geknetet, dann ausrollen, füllen, rollen und schneiden (beides falsch,
 siehe unten), zweite Gehzeit etwa 1,5 h, gebacken auf Backpapier mit
 Abstand. Zusätzlich 1/2 Päckchen Backpulver (ca. 8 g) in den trockenen Zutaten -

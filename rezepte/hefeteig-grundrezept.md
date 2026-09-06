@@ -18,7 +18,7 @@ Basis für gerollte Hefegebäcke (z.B. Zimtschnecken). Ergibt **12 Stück**.
 
 ## Zubereitung
 
-1. Mehl, Hefe, Zucker, Salz mischen. Milch, Ei, weiche Butter dazu, zu glattem Teig verkneten.
+1. Mehl, Hefe, Zucker, Salz mischen. Milch, Ei, weiche Butter dazu, zu glattem Teig verkneten - Maschine 8-10 min, von Hand 10-12. Fertig ist er beim Fenstertest: ein Stück lässt sich dünn ausziehen, ohne zu reißen.
 2. Abgedeckt 45-60 min gehen lassen, bis Volumen sich verdoppelt.
 3. Rechteckig ausrollen (ca. 40x50 cm), mit der vorbereiteten Füllung belegen (siehe [`fuellung-zimt.md`](fuellung-zimt.md) oder [`fuellung-schokotropfen.md`](fuellung-schokotropfen.md)).
 4. Von der langen Seite eng aufrollen, Naht mit dem Daumen festdrücken, quer in 3-4 cm dicke Scheiben schneiden. Die Spirale ist die Schnittfläche - Scheiben nicht strecken oder neu wickeln.
