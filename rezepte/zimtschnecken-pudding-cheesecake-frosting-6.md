@@ -87,13 +87,13 @@ vom anderen das Eigelb).
 
 **D. Formen und backen**
 
-9. Eine kleine Auflaufform oder 20-cm-Springform mit Butter fetten.
+9. Eine kleine Auflaufform oder 20-cm-Springform: Boden mit Backpapier auslegen, Rand buttern.
 10. Teig auf leicht bemehlter Fläche zu einem Rechteck von ca. 25 × 40 cm ausrollen.
 11. Zimt-Paste gleichmäßig auf dem Teig verstreichen, an einer der kurzen Seiten 2 cm Rand frei lassen.
 12. Von der gegenüberliegenden kurzen Seite (25 cm) her eng aufrollen, die Naht am freien Rand festdrücken. Die Rolle ist ca. 25 cm lang.
 13. Mit einem scharfen Messer oder einem Stück Zahnseide quer in 6 Scheiben à ca. 4 cm schneiden. Die Spirale ist die Schnittfläche - Scheiben nicht strecken oder neu wickeln.
-14. Scheiben mit der Schnittfläche nach oben in die Form setzen, mit etwas Abstand. Abdecken, 20 Minuten ruhen lassen.
-15. Währenddessen Backofen auf 180 °C Ober-/Unterhitze vorheizen.
+14. Scheiben mit der Schnittfläche nach oben in die Form setzen, eng aneinander und mit der Naht zum Nachbarn. Abdecken, 20 Minuten ruhen lassen, dann 10-15 Minuten in den Kühlschrank, damit die Füllung beim Backen nicht wegläuft.
+15. Während die Schnecken im Kühlschrank sind, Backofen auf 180 °C Ober-/Unterhitze vorheizen.
 16. 20-25 Minuten backen, bis die Oberfläche goldbraun ist. Aus dem Ofen nehmen, in der Form 10 Minuten stehen lassen, dann herausnehmen und auf einem Gitter abkühlen lassen. Das Frosting kommt erst auf ausgekühlte oder höchstens lauwarme Schnecken.
 
 **E. Frosting (wenn die Schnecken abgekühlt sind)**

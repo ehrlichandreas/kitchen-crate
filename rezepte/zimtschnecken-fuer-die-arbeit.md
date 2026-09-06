@@ -38,9 +38,10 @@ eigenen Behälter, Kühlschrank.
 | 0:15 | Beide Teige gehen lassen, 45-60 min |
 | 1:15 | Ausrollen, füllen, schneiden - laktosefrei zuerst und in eigene Form, dann normal |
 | 1:45 | Zweites Gehen, 20 min |
-| 2:05 | Backen, 20-25 min. Zwei Formen zusammen, wenn der Ofen es hergibt, sonst nacheinander - die zweite wartet dann 25 min länger, das verträgt der Teig |
-| 2:35 | Auskühlen, ca. 30 min |
-| 3:05 | Einpacken: Schnecken pur, Saucen in ihren Behältern, laktosefreie Charge erkennbar getrennt |
+| 2:05 | Formen 10-15 min in den Kühlschrank, Ofen vorheizen |
+| 2:20 | Backen, 20-25 min. Zwei Formen zusammen, wenn der Ofen es hergibt, sonst nacheinander - die zweite wartet dann 25 min länger, das verträgt der Teig |
+| 2:50 | Auskühlen, ca. 30 min |
+| 3:20 | Einpacken: Schnecken pur, Saucen in ihren Behältern, laktosefreie Charge erkennbar getrennt |
 
 **Alternative, kalte Führung:** Teig am Vorabend kneten, abgedeckt in den
 Kühlschrank, morgens formen. Zweite Gehzeit dann 60-90 min, weil der Teig kalt
