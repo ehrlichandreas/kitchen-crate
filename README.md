@@ -10,6 +10,7 @@ Laktosefrei ist nicht milchfrei.
 **Gerichte / Kombis**
 
 - [Zimtschnecken](rezepte/zimtschnecken.md) - Teig + Füllung + alle drei Saucen, skalierbar auf beliebige Stückzahl (G, E, M)
+- [Zimtschnecken für die Arbeit](rezepte/zimtschnecken-fuer-die-arbeit.md) - Anlass-Plan: 27 + 6 laktosefrei, Ablauf, Einkaufsliste (G, E, M)
 - [Zimtschnecken laktosefrei](rezepte/zimtschnecken-laktosefrei.md) - laktosefreier Teig, ohne Sauce (G, E, M laktosefrei)
 - [Zimtschnecken mit Puddingcreme-Frischkäse-Frosting](rezepte/zimtschnecken-mit-puddingcreme-frischkaese-frosting.md) - ungetestet (G, E, M)
 - [Zimtschnecken mit Pudding-Cheesecake-Frosting, 6 Stück](rezepte/zimtschnecken-pudding-cheesecake-frosting-6.md) - komplett ausgeschrieben zum Probebacken, ungetestet (G, E, M)
