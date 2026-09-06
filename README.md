@@ -45,7 +45,8 @@ bauen, ohne Rezepte zu duplizieren. Mengen skalieren über einen Faktor
   Sauce) und "Kombi"-Dateien, die andere Dateien im selben Ordner
   referenzieren statt sie zu duplizieren. [`_vorlage.md`](rezepte/_vorlage.md) kopieren zum Anlegen.
 - [`substitution.md`](substitution.md) - Zutat X fehlt? Was ersetzt sie, in welchem Verhältnis
-- `rezepte/bilder/<rezept>/` - Fotos zu einem Rezept, auf 1200 px verkleinert, ohne Metadaten
+- `rezepte/bilder/<rezept>/` - Fotos zu einem Rezept, immer über `python3 bilder.py <rezept> foto.jpg ...`
+  (verkleinert auf 1200 px, entfernt EXIF/GPS, gibt den Markdown-Schnipsel aus)
 
 ## Rezept anlegen
 
@@ -60,7 +61,7 @@ Regeln:
 - Teile, die von anderen Rezepten genutzt werden, führen unten "Verwendet in:".
 - Ungetestete Ideen werden als solche markiert, nicht als Fakt.
 - Neues Rezept = Eintrag in der Übersicht oben, sonst findet es niemand.
-- `python3 check.py` prüft das alles mechanisch (Links, Mengen, Übersicht, Rückverweise, keine Gedankenstriche).
+- `python3 check.py` prüft das alles mechanisch (Links, Mengen, Übersicht, Rückverweise, keine Gedankenstriche, Bilder klein und ohne Metadaten).
 
 ## Wachstumspfad (nicht jetzt bauen, nur damit klar ist wohin)
 

@@ -2,7 +2,7 @@
 """Prüft die Sammlung. Exit 1, wenn etwas nicht stimmt.
 
 - Jeder Verweis auf eine .md-Datei ist ein echter Link, und das Ziel existiert.
-- Jedes eingebundene Bild existiert.
+- Jedes eingebundene Bild existiert; Bilder unter rezepte/bilder/ sind klein und ohne Metadaten.
 - Jedes Rezept nennt seine Menge (Portionen / Reicht für / Ergibt).
 - Jedes Rezept steht in der README-Übersicht.
 - "Verwendet in:" stimmt in beide Richtungen.
@@ -82,6 +82,13 @@ for name, txt in files.items():
             f"rezepte/{name}: 'Verwendet in' sagt {sorted(listed) or '-'}, "
             f"verlinkt wird es aber von {sorted(users) or '-'}"
         )
+
+for img in sorted((RZ / "bilder").rglob("*.jpg")):
+    data = img.read_bytes()
+    if b"Exif" in data or b"GPS" in data:
+        errors.append(f"{img.relative_to(ROOT)}: enthält Metadaten (EXIF/GPS) - mit bilder.py aufnehmen")
+    if len(data) > 400_000:
+        errors.append(f"{img.relative_to(ROOT)}: {len(data)//1024} KB, zu groß - mit bilder.py verkleinern")
 
 if errors:
     print("\n".join(errors))
